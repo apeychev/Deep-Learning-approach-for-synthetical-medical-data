@@ -1,0 +1,885 @@
+id,system_id,"name","name_en","alt_en","name_lat","mesh","umls","uri","created_at","updated_at","deleted_at"
+1,4,"бял дроб","lung",NULL,"pulmo","A04.411",NULL,NULL,"2020-05-17 08:56:39","2020-05-23 10:19:57",NULL
+2,1,"корем","abdomen",NULL,"externus abdominis","A01.047",NULL,NULL,"2020-05-17 09:04:07","2020-05-23 10:33:36",NULL
+3,1,"крайници","extremities",";extremity;extremity","summa","A01.378",NULL,"http://www.wikidata.org/entity/Q515083","2020-05-17 09:06:53","2020-05-25 11:02:25",NULL
+4,7,"сърце","heart",NULL,"cor","A07.541",NULL,NULL,"2020-05-17 09:07:24","2020-05-23 10:44:41",NULL
+5,17,"кожа","skin",NULL,"pellis","A17.815",NULL,NULL,"2020-05-17 09:07:42","2020-05-23 10:31:33",NULL
+6,10,"слезка","spleen",NULL,"lienem","A10.549.700",NULL,NULL,"2020-05-17 09:12:54","2020-05-23 10:47:21",NULL
+7,1,"врат","neck",NULL,"collum","A01.598",NULL,NULL,"2020-05-17 09:29:04","2020-05-23 10:20:51",NULL
+8,1,"глава","head",NULL,"capitulum","A01.456",NULL,NULL,"2020-05-17 09:29:15","2020-05-23 10:21:27",NULL
+9,NULL,"гърло","throat",NULL,"faucium",NULL,NULL,NULL,"2020-05-17 09:29:34","2020-05-17 09:29:34",NULL
+10,10,"лимфни възли","lymph nodes",NULL,"nodorum lymphaticorum","A10.549.400",NULL,NULL,"2020-05-17 09:30:02","2020-05-23 10:38:24",NULL
+11,6,"щитовидна жлеза","thyroid gland",NULL,"glandulae","A06.407.900",NULL,NULL,"2020-05-17 09:34:36","2020-05-23 10:42:47",NULL
+12,3,"език","tongue",NULL,"lingua","A03.556.500.885",NULL,NULL,"2020-05-17 10:30:46","2020-05-23 10:37:51",NULL
+13,7,"артерия","artery",NULL,"arteriae coronariae","A07.231.114",NULL,NULL,"2020-05-17 10:31:17","2020-05-23 10:17:55",NULL
+14,3,"черен дроб","liver",NULL,"iecur","A03.620",NULL,NULL,"2020-05-17 10:32:01","2020-05-23 10:43:30",NULL
+15,NULL,"опорно-двигателен апарат","musculoskeletal system",NULL,"musculoskeletal system",NULL,NULL,NULL,"2020-05-17 10:35:01","2020-05-17 10:36:32",NULL
+16,1,"гръден кош","thorax",NULL,"thorax","A01.911",NULL,NULL,"2020-05-17 10:38:28","2020-05-23 10:24:26",NULL
+17,5,"бъбрек","kidney",NULL,"ren","A05.810.453",NULL,NULL,"2020-05-17 10:41:19","2020-05-23 10:19:21",NULL
+18,9,"лигавица","mucosa",NULL,"tunicae mucosae","MeSH A09.531.623",NULL,NULL,"2020-05-17 10:42:20","2020-05-23 10:37:38",NULL
+19,7,"вена","vein",NULL,"vein","A07.231.908",NULL,NULL,"2020-05-17 10:49:40","2020-05-23 10:20:23",NULL
+20,9,"око","eye",NULL,"oculus","MeSH A09.371",NULL,NULL,"2020-05-17 11:06:10","2020-05-23 10:41:03",NULL
+21,NULL,"черепномозъчни нерви","cranial nerves",NULL,"nervorum cranialium",NULL,NULL,NULL,"2020-05-17 11:11:59","2020-05-17 11:11:59",NULL
+22,1,"млечна жлеза","mammary gland",NULL,"papílla","A01.236.249",NULL,"http://www.wikidata.org/entity/Q66058110","2020-05-17 11:12:49","2020-05-25 11:02:25",NULL
+23,NULL,"нервна система","nervous system",NULL,"nervosi",NULL,NULL,NULL,"2020-05-17 11:20:17","2020-05-17 11:20:17",NULL
+24,2,"става","joint",NULL,"iuncturam","A02.835.583",NULL,NULL,"2020-05-17 13:47:15","2020-05-23 10:45:16",NULL
+25,NULL,"кръвно налягане","blood pressure",NULL,"sanguinem pressura",NULL,NULL,NULL,"2020-05-17 13:51:35","2020-05-17 13:51:35",NULL
+26,1,"гърди","breast",NULL,"mamma","A01.236",NULL,"http://www.wikidata.org/entity/Q9103","2020-05-17 14:08:30","2020-05-25 11:02:25",NULL
+27,1,"коляно","knee",NULL,"genu","A01.378.610.450",NULL,"http://www.wikidata.org/entity/Q37425","2020-05-17 14:09:39","2020-05-23 10:32:02",NULL
+28,1,"ръка","hand",NULL,"manibus","A01.378.800.667",NULL,NULL,"2020-05-17 14:12:04","2020-05-23 10:48:17",NULL
+29,1,"крак","leg",NULL,"crus","A01.378.610.500",NULL,NULL,"2020-05-17 14:12:17","2020-05-23 10:35:02",NULL
+30,4,"сливица","tonsil",NULL,"tonsilla","A04.623.603.925",NULL,NULL,"2020-05-17 14:13:22","2020-05-23 10:46:01",NULL
+31,9,"нос","nose",NULL,"nasus","MeSH A09.53",NULL,NULL,"2020-05-17 14:14:00","2020-05-23 10:40:29",NULL
+32,9,"ухо","ear",NULL,"auris","A09.246",NULL,NULL,"2020-05-17 14:14:06","2020-05-23 10:44:08",NULL
+33,2,"глезен","ankle",NULL,"tarso","A02.835.583.378.062",NULL,NULL,"2020-05-17 14:15:14","2020-05-23 10:22:05",NULL
+34,3,"анус","anus",NULL,"ano est","C06.198.050",NULL,NULL,"2020-05-17 14:20:18","2020-05-23 10:08:57",NULL
+35,5,"простата","prostate",NULL,"prostatae","A05.360.444.575",NULL,NULL,"2020-05-17 14:24:52","2020-05-23 10:49:39",NULL
+36,7,"пулс","pulse",NULL,NULL,NULL,NULL,NULL,"2020-05-23 17:38:57","2020-05-25 11:52:06",NULL
+37,1,"коремна кухина","abdominal cavity",NULL,"cavitas abdominis","A01.047.025","C0230168","http://www.wikidata.org/entity/Q682466","2020-05-25 09:45:08","2020-05-25 09:45:08",NULL
+38,1,"перитоний","peritoneum",NULL,"peritoneum","A01.047.025.600","C0031153","http://www.wikidata.org/entity/Q9629","2020-05-25 09:46:52","2020-05-25 11:02:25",NULL
+39,1,"опорак","mesentery",NULL,"mesenterium","A01.047.025.600.451",NULL,"http://www.wikidata.org/entity/Q1135563","2020-05-25 09:47:44","2020-05-25 09:48:15",NULL
+40,1,"ингвинален канал","Inguinal canal",NULL,"canalis inguinalis","A01.047.412",NULL,"http://www.wikidata.org/entity/Q912422","2020-05-25 09:49:25","2020-05-25 09:49:25",NULL
+41,1,"долен крайник","lower limb",NULL,NULL,"A01.378.610",NULL,"http://www.wikidata.org/entity/Q62513663","2020-05-25 09:54:31","2020-05-25 11:02:25",NULL
+42,1,"седалище","buttocks",NULL,"nates","A01.378.610.100",NULL,"http://www.wikidata.org/entity/Q42165","2020-05-25 09:55:52","2020-05-25 11:02:25",NULL
+43,1,"стъпало","foot",NULL,"pes","A01.378.610.250",NULL,"http://www.wikidata.org/entity/Q15807","2020-05-25 10:02:37","2020-05-25 11:02:25",NULL
+44,NULL,"анатомичен регион","anatomical region","organism subdivision","","A01","","http://www.wikidata.org/entity/Q17781690","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+45,1,"ходило","metatarsus","",NULL,"A01.378.610.250.300.480",NULL,"http://www.wikidata.org/entity/Q59626633","2020-05-25 11:04:24","2020-05-25 11:06:18",NULL
+46,NULL,"тазобедреница","hip","regio coxae","coxa","A01.378.610.400","","http://www.wikidata.org/entity/Q193818","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+47,NULL,"коляно","knee","","genu","A01.378.610.450","","http://www.wikidata.org/entity/Q37425","2020-05-25 11:04:24","2020-05-25 11:04:24","2020-05-25 11:04:24"
+48,1,"подбедрица","lower leg proper","leg proper",NULL,"A01.378.610.500",NULL,"http://www.wikidata.org/entity/Q25652142","2020-05-25 11:04:24","2020-05-25 11:29:28",NULL
+49,1,"горен крайник","upper extremity","","membrum superius","A01.378.800","C1140618","http://www.wikidata.org/entity/Q841423","2020-05-25 11:04:24","2020-05-25 11:29:59",NULL
+50,1,"горна част на ръката","upper arm","forelimb stylopod","brachium","A01.378.800.075","C0446516","http://www.wikidata.org/entity/Q379859","2020-05-25 11:04:24","2020-05-25 11:30:32",NULL
+51,1,"ръка","arm","arms","brachium","A01.378.800.075","C0446516","http://www.wikidata.org/entity/Q43471","2020-05-25 11:04:24","2020-05-25 11:28:55",NULL
+52,1,"подмишница","armpit","underarms","axilla","A01.378.800.090",NULL,"http://www.wikidata.org/entity/Q499","2020-05-25 11:04:24","2020-05-25 11:31:00",NULL
+53,1,"ръка","forearm",NULL,"antebrachium","A01.378.800.585",NULL,"http://www.wikidata.org/entity/Q228537","2020-05-25 11:04:24","2020-05-25 11:52:34",NULL
+54,1,"ръце","hand",NULL,"manus","A01.378.800.667",NULL,"http://www.wikidata.org/entity/Q33767","2020-05-25 11:04:24","2020-05-25 11:52:53",NULL
+55,1,"пръст на ръката","finger",NULL,"digiti manus","A01.378.800.667.430",NULL,"http://www.wikidata.org/entity/Q620207","2020-05-25 11:04:24","2020-05-25 11:53:08",NULL
+56,1,"палец","thumb",NULL,"digitus primus","A01.378.800.667.430.705",NULL,"http://www.wikidata.org/entity/Q83360","2020-05-25 11:04:24","2020-05-25 11:53:21",NULL
+57,1,"кости на китката","metacarpus","",NULL,"A01.378.800.667.572",NULL,"http://www.wikidata.org/entity/Q68001329","2020-05-25 11:04:24","2020-05-25 11:31:31",NULL
+58,1,"рамо","shoulder","","cingulum membri superioris","A01.378.800.750",NULL,"http://www.wikidata.org/entity/Q16363","2020-05-25 11:04:24","2020-05-25 11:31:57",NULL
+59,1,"глава","head","noddles","caput","A01.456",NULL,"http://www.wikidata.org/entity/Q23640","2020-05-25 11:04:24","2020-05-25 11:32:29",NULL
+60,1,"лице","face","","facies","A01.456.505",NULL,"http://www.wikidata.org/entity/Q37017","2020-05-25 11:04:24","2020-05-25 11:32:15",NULL
+61,1,"буза","cheek","jowl","bucca","A01.456.505.173",NULL,"http://www.wikidata.org/entity/Q47038","2020-05-25 11:04:24","2020-05-25 11:32:54",NULL
+62,1,"брадичка","chin","","mentum","A01.456.505.259",NULL,"http://www.wikidata.org/entity/Q82714","2020-05-25 11:04:24","2020-05-25 11:33:22",NULL
+63,1,"око","eye",NULL,"oculus","A01.456.505.420","C0015392","http://www.wikidata.org/entity/Q7364","2020-05-25 11:04:24","2020-05-25 11:34:17",NULL
+64,1,"Клепачи","eyelid",NULL,"palpebrae","A01.456.505.420.504","C0015426","http://www.wikidata.org/entity/Q48228","2020-05-25 11:04:24","2020-05-25 11:53:39",NULL
+65,1,"чело","forehead",NULL,"sinciput","A01.456.505.580",NULL,"http://www.wikidata.org/entity/Q41055","2020-05-25 11:04:24","2020-05-25 11:34:45",NULL
+66,1,"уста","human mouth",NULL,"os","A01.456.505.631",NULL,"http://www.wikidata.org/entity/Q1370895","2020-05-25 11:04:24","2020-05-25 11:35:03",NULL
+67,1,"уста","mouth",NULL,"os","A01.456.505.631",NULL,"http://www.wikidata.org/entity/Q9635","2020-05-25 11:04:24","2020-05-25 11:35:31",NULL
+68,1,"нос","human nose",NULL,"nasus","A01.456.505.733",NULL,"http://www.wikidata.org/entity/Q2673594","2020-05-25 11:04:24","2020-05-25 11:35:47",NULL
+69,1,"нос","nose",NULL,"nasus","A01.456.505.733",NULL,"http://www.wikidata.org/entity/Q7363","2020-05-25 11:04:24","2020-05-25 11:36:03",NULL
+70,1,"скалп","scalp",NULL,NULL,"A01.456.810",NULL,"http://www.wikidata.org/entity/Q9622","2020-05-25 11:04:24","2020-05-25 11:36:28",NULL
+71,1,"задна черепна ямка","posterior cranial fossa",NULL,"fossa cranii posterior","A01.456.830.200",NULL,"http://www.wikidata.org/entity/Q503944","2020-05-25 11:04:24","2020-05-25 11:36:57",NULL
+72,1,"яремни форамени","jugular foramen",NULL,"foramen jugulare","A01.456.830.200.500",NULL,"http://www.wikidata.org/entity/Q767053","2020-05-25 11:04:24","2020-05-25 11:37:26",NULL
+73,1,"инфратемпорална ямка","Infratemporal fossa",NULL,"fossa infratemporalis","A01.456.830.600",NULL,"http://www.wikidata.org/entity/Q2531753","2020-05-25 11:04:24","2020-05-25 11:37:59",NULL
+74,NULL,"парафарингеално пространство","parapharyngeal space","","spatium peripharyngeum","A01.456.830.800","C1281212","http://www.wikidata.org/entity/Q7135649","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+75,1,"врат","neck",NULL,"collum","A01.598",NULL,"http://www.wikidata.org/entity/Q9633","2020-05-25 11:04:24","2020-05-25 11:54:08",NULL
+76,1,"таз","pelvis",NULL,"pelvis","A01.673",NULL,"http://www.wikidata.org/entity/Q713102","2020-05-25 11:04:24","2020-06-04 22:44:17",NULL
+77,NULL,"перинеум","perineum",NULL,"perineum","A01.719",NULL,"http://www.wikidata.org/entity/Q105499","2020-05-25 11:04:24","2020-06-04 22:48:07",NULL
+78,1,"гръден кош","thorax",NULL,"thorax","A01.911","C0817096","http://www.wikidata.org/entity/Q592177","2020-05-25 11:04:24","2020-06-04 22:48:49",NULL
+79,1,"плеврална кухина","pleural cavity",NULL,"cavitas pleuralis","A01.911.800.650","C0178802","http://www.wikidata.org/entity/Q192398","2020-05-25 11:04:24","2020-06-04 22:49:28",NULL
+80,1,"ректо-маточна торбичка","recto-uterine pouch",NULL,"excavatio rectouterina","A01.923.047.025.600.225",NULL,"http://www.wikidata.org/entity/Q1251960","2020-05-25 11:04:24","2020-06-04 22:50:11",NULL
+81,NULL,"mesocolon","mesocolon","","","A01.923.047.025.600.451.535","","http://www.wikidata.org/entity/Q1119809","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+82,1,"оментум","omentum",NULL,"omentum","A01.923.047.025.600.573",NULL,"http://www.wikidata.org/entity/Q1207493","2020-05-25 11:04:24","2020-06-04 22:52:25",NULL
+83,NULL,"перитонеална кухина","peritoneal cavity","","cavitas peritonealis","A01.923.047.025.600.678","C1704247","http://www.wikidata.org/entity/Q1030169","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+84,NULL,"ретроперитонеално пространство","retroperitoneal space","retroperitoneum","spatium retroperitoneale","A01.923.047.025.750","C0035361","http://www.wikidata.org/entity/Q577238","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+85,NULL,"пъп","umbilicus","navel","umbilicus","A01.923.047.849","","http://www.wikidata.org/entity/Q43801","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+86,1,"гръб","back",NULL,"dorsum","A01.923.176",NULL,"http://www.wikidata.org/entity/Q133279","2020-05-25 11:04:24","2020-05-25 11:44:03",NULL
+87,NULL,"лумбална област","lumbar region","lumbosacral region","regio lumbalis","A01.923.176.519","","http://www.wikidata.org/entity/Q1293405","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+88,NULL,"тазово дъно","pelvic floor","pelvic diaphragm","diaphragma pelvis","A01.923.600.600","","http://www.wikidata.org/entity/Q813683","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+89,NULL,"автогенен","autograft","Autografts","","A01.941.750","","http://www.wikidata.org/entity/Q67391721","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+90,NULL,"isograft","isograft","syngeneic graft","","A01.941.937","","http://www.wikidata.org/entity/Q3155507","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+91,NULL,"миофасциална задействаща точка","myofascial trigger point","trigger points","","A01.947","","http://www.wikidata.org/entity/Q1956673","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+92,NULL,"мускулно-скелетна система","human musculoskeletal system","locomotor system","","A02","C0026860","http://www.wikidata.org/entity/Q726543","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+93,NULL,"хрущял","cartilage","cartilaginous part of bone","pars cartilaginea","A02.165","","http://www.wikidata.org/entity/Q502730","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+94,NULL,"епиглотис","Deatholotisisis","Killer in 5 seconds in the moment u get it","epiglottis","A02.165.257.625.411","","http://www.wikidata.org/entity/Q235378","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+95,NULL,"щитовиден хрущял","thyroid cartilage","","cartilago thyroidea","A02.165.257.625.870","","http://www.wikidata.org/entity/Q171093","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+96,NULL,"междупрешленния диск","intervertebral disc","intervertebral fibrocartilage","discus intervertebralis","A02.165.308.410","","http://www.wikidata.org/entity/Q502781","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+97,2,"ставен хрущял","articular cartilage",NULL,NULL,"A02.165.407.150",NULL,"http://www.wikidata.org/entity/Q3704713","2020-05-25 11:04:24","2020-05-25 11:45:11",NULL
+98,NULL,"хрущял на бобената глава","Cartilages of the beanhead","nasal cartilages","cartilagines nasi","A02.165.407.550","","http://www.wikidata.org/entity/Q12229608","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+99,NULL,"носна преграда","nasal septum","septum nasi","septum nasi","A02.165.407.600","","http://www.wikidata.org/entity/Q500634","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+100,NULL,"аритеноиден хрущял","arytenoid cartilage","","cartilago arytenoidea","A02.165.507.083","","http://www.wikidata.org/entity/Q1545154","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+101,NULL,"крикоиден хрущял","cricoid cartilage","BD Chaurasia","cartilago cricoidea","A02.165.507.211","","http://www.wikidata.org/entity/Q638244","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+102,NULL,"фасция","fascia","","Fascia","A02.340","","http://www.wikidata.org/entity/Q936531","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+103,NULL,"преден кръстосан лигамент","anterior cruciate ligament","cranial cruciate ligament","lig. cruciatum anterius","A02.513.514.100","","http://www.wikidata.org/entity/Q611127","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+104,NULL,"среден колатерален лигамент","medial collateral ligament","","lig. collaterale tibiale","A02.513.514.162.600","","http://www.wikidata.org/entity/Q3241072","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+105,NULL,"Ligamenta flava","Ligamenta flava","","ligg. flava","A02.513.514.287","","http://www.wikidata.org/entity/Q1468271","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+106,NULL,"пателарен лигамент","patellar ligament","subpatellar tendon","lig. patellae","A02.513.514.475","","http://www.wikidata.org/entity/Q1172095","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+107,NULL,"заден кръстосан лигамент","posterior cruciate ligament","","lig. cruciatum posterius","A02.513.514.600","","http://www.wikidata.org/entity/Q735353","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+108,NULL,"кръгъл лигамент","round ligament","round ligaments","","A02.513.901","","http://www.wikidata.org/entity/Q7371196","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+109,NULL,"мускул","muscle","","systema musculare","A02.633","","http://www.wikidata.org/entity/Q7365","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+110,NULL,"скелетен набразден мускул","skeletal striated muscle","striated voluntary muscle","","A02.633.567","","http://www.wikidata.org/entity/Q1048687","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+111,NULL,"Musculus rectus abdominis","rectus abdominis muscle","Rectus abdominis muscle","m. rectus abdominis","A02.633.567.050.800","","http://www.wikidata.org/entity/Q275150","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+112,NULL,"мускул на гърба","back muscles","back muscle","","A02.633.567.175","","http://www.wikidata.org/entity/Q70198382","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+113,NULL,"делтоиден мускул","deltoid muscle","delts","m. deltoideus","A02.633.567.300","","http://www.wikidata.org/entity/Q130243","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+114,NULL,"Мускули от мастика","Muscles of mastication","set of masticatory muscles","musculi masticatorii","A02.633.567.600","","http://www.wikidata.org/entity/Q286978","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+115,NULL,"птеригоидни мускули","pterygoid muscles","Pterygoid Muscle","","A02.633.567.600.700","","http://www.wikidata.org/entity/Q68549908","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+116,NULL,"Палатален мускул","Palatal muscle","palatal muscles","","A02.633.567.750","","http://www.wikidata.org/entity/Q7126769","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+117,NULL,"pectoryis major","pectoralis major","pecs","m. pectoralis major","A02.633.567.775","","http://www.wikidata.org/entity/Q532798","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+118,NULL,"Фарингеални мускули","Pharyngeal muscles","","tunica muscularis pharyngis","A02.633.567.800","","http://www.wikidata.org/entity/Q7180883","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+119,NULL,"псоас мускули","psoas muscles","psoas muscle","","A02.633.567.825","","http://www.wikidata.org/entity/Q68800232","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+120,NULL,"Musculus quadriceps femoris","quadriceps femoris muscle","quads","m. quadriceps femoris","A02.633.567.850","","http://www.wikidata.org/entity/Q504536","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+121,NULL,"гръдна диафрагма","thoracic diaphragm","respiratory diaphragm","diaphragma","A02.633.567.900.300","","http://www.wikidata.org/entity/Q9654","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+122,NULL,"интеркостален мускул","intercostal muscle","","","A02.633.567.900.500","","http://www.wikidata.org/entity/Q3302518","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+123,NULL,"Абонирайте се за яростни йети","Subscribe to furious yeti","smooth muscle","","A02.633.570","","http://www.wikidata.org/entity/Q208453","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+124,NULL,"туника медия","tunica media","media","tunica media","A02.633.570.491.800","C0162867","http://www.wikidata.org/entity/Q1740954","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+125,NULL,"миокард","myocardium","","myocardium","A02.633.580","C0027061","http://www.wikidata.org/entity/Q84133","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+126,NULL,"костен","bone","bone and bones","ossa","A02.835.232","","http://www.wikidata.org/entity/Q265868","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+127,NULL,"Ossa metatarsalia","metatarsal bones","metatarsal bone","ossa metatarsi","A02.835.232.043.300.492","C0025584","http://www.wikidata.org/entity/Q320524","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+128,NULL,"Тарзални кости","tarsal bones","Tarsals","ossa tarsi","A02.835.232.043.300.710","C0039316","http://www.wikidata.org/entity/Q1059724","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+129,NULL,"калканеуса","calcaneus","heel bone","calcaneus","A02.835.232.043.300.710.300","","http://www.wikidata.org/entity/Q13075","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+130,NULL,"сипей","talus","talus bone","talus","A02.835.232.043.300.710.780","","http://www.wikidata.org/entity/Q13100","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+131,NULL,"Кост на крака","Leg bone","","","A02.835.232.043.650","","http://www.wikidata.org/entity/Q26261881","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+132,NULL,"Femur","femur","thigh bone","os femoris","A02.835.232.043.650.247","","http://www.wikidata.org/entity/Q176503","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+133,NULL,"глава на бедрената кост","head of femur","femur head","caput femoris","A02.835.232.043.650.247.343","C0015813","http://www.wikidata.org/entity/Q582849","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+134,NULL,"шийка на бедрената кост","neck of femur","femur neck","collum femoris","A02.835.232.043.650.247.510","C0015815","http://www.wikidata.org/entity/Q4844892","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+135,NULL,"фибула","fibula","calf bone","YoGile","A02.835.232.043.650.321","","http://www.wikidata.org/entity/Q302896","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+136,NULL,"Patella","patella","kneepan","patella","A02.835.232.043.650.624","","http://www.wikidata.org/entity/Q229081","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+137,NULL,"Tibia","tibia","shinbone","tibia","A02.835.232.043.650.883","","http://www.wikidata.org/entity/Q178366","2020-05-25 11:04:24","2020-05-25 11:04:24",NULL
+138,NULL,"ацетабулума","acetabulum","cotyloid cavity","acetabulum","A02.835.232.043.825.108","","http://www.wikidata.org/entity/Q1130461","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+139,NULL,"бедрена кост","hip bone","pelvic bones","os coxae","A02.835.232.043.825.434","C0030786","http://www.wikidata.org/entity/Q3356933","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+140,NULL,"раменна кост","humerus","humerus bone","humerus","A02.835.232.087.090.400","C0020164","http://www.wikidata.org/entity/Q162595","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+141,NULL,"радиус","radius","radial bone","radius","A02.835.232.087.090.700","C0034627","http://www.wikidata.org/entity/Q178492","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+142,NULL,"лакътната кост","ulna","ulna bone","ulna","A02.835.232.087.090.850","C0041600","http://www.wikidata.org/entity/Q199507","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+143,NULL,"карпална кост","carpal bone","carpals","ossa carpi","A02.835.232.087.144","C0007285","http://www.wikidata.org/entity/Q232377","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+144,NULL,"лунатна кост","lunate bone","","os lunatum","A02.835.232.087.144.663","","http://www.wikidata.org/entity/Q13141","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+145,NULL,"ключица","clavicle","collarbone","clavicula","A02.835.232.087.227","","http://www.wikidata.org/entity/Q16343","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+146,NULL,"главна кост","capitate bone","","os capitatum","A02.835.232.087.319.150.150","","http://www.wikidata.org/entity/Q752369","2020-05-25 11:04:24","2020-06-05 07:26:46",NULL
+147,NULL,"хаматна кост","hamate bone","","os hamatum","A02.835.232.087.319.150.400","","http://www.wikidata.org/entity/Q54393","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+148,NULL,"писиформна кост","pisiform bone","pisiform","os pisiforme","A02.835.232.087.319.150.600","","http://www.wikidata.org/entity/Q691942","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+149,NULL,"скафоидна кост","scaphoid bone","navicular","os scaphoideum","A02.835.232.087.319.150.750","","http://www.wikidata.org/entity/Q13143","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+150,NULL,"трапец","trapezium","","os trapezium","A02.835.232.087.319.150.800","","http://www.wikidata.org/entity/Q265617","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+151,NULL,"трапецовидна кост","trapezoid bone","lesser multangular bone","os trapezoideum","A02.835.232.087.319.150.805","","http://www.wikidata.org/entity/Q847084","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+152,NULL,"трикетрална кост","triquetral bone","triquetrum","os triquetrum","A02.835.232.087.319.150.831","","http://www.wikidata.org/entity/Q278417","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+153,NULL,"метакарпални кости","metacarpal bones","metacarpal bone","ossa metacarpi","A02.835.232.087.319.550","C0025526","http://www.wikidata.org/entity/Q237229","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+154,NULL,"скапула","scapula","wing bone","scapula","A02.835.232.087.783","","http://www.wikidata.org/entity/Q16336","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+155,NULL,"диафазата","diaphysis","body of long bone","diaphysis","A02.835.232.169","","http://www.wikidata.org/entity/Q2353265","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+156,NULL,"кост","epiphysis","","epiphysis","A02.835.232.251","","http://www.wikidata.org/entity/Q1801229","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+157,NULL,"хиоидна кост","hyoid bone","Greater cornu","os hyoideum","A02.835.232.409","","http://www.wikidata.org/entity/Q16332","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+158,NULL,"слабинна кост","ilium","iliac bone","os ilium","A02.835.232.611.434","C0020889","http://www.wikidata.org/entity/Q728889","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+159,NULL,"ишиум","ischium","","os ischii","A02.835.232.611.548","C0022122","http://www.wikidata.org/entity/Q531029","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+160,NULL,"срамна кост","pubic bone","pubis","os pubis","A02.835.232.611.781","C0034014","http://www.wikidata.org/entity/Q220815","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+161,NULL,"човешки череп","human skull","cranium","cranium","A02.835.232.781","","http://www.wikidata.org/entity/Q9604","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+162,NULL,"череп","skull","cranium","cranium","A02.835.232.781","C0037303","http://www.wikidata.org/entity/Q13147","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+163,NULL,"черепна конци","cranial suture","suture","suturae cranii","A02.835.232.781.200","C0502420","http://www.wikidata.org/entity/Q775533","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+164,NULL,"етмоидна кост","ethmoid bone","","os ethmoidale","A02.835.232.781.292","C0015027","http://www.wikidata.org/entity/Q16331","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+165,NULL,"лицев скелет","facial skeleton","viscerocranium","viscerocranium","A02.835.232.781.324","C0925985","http://www.wikidata.org/entity/Q1068553","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+166,NULL,"алвеоларен процес","alveolar process","alveolar bone","processus alveolaris","A02.835.232.781.324.502.125","","http://www.wikidata.org/entity/Q448692","2020-05-25 11:04:25","2020-06-05 07:26:46",NULL
+167,NULL,"зъбен алвеол","dental alveolus","dental alveoli of mandible","alveoli dentales","A02.835.232.781.324.502.125.800","","http://www.wikidata.org/entity/Q143588","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+168,NULL,"ментални форуми","mental foramen","","foramen mentale","A02.835.232.781.324.502.632.800","","http://www.wikidata.org/entity/Q833871","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+169,NULL,"челюст","maxilla","upper jawbone","maxilla","A02.835.232.781.324.502.645","","http://www.wikidata.org/entity/Q182895","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+170,NULL,"твърдо небце","hard palate","palatum durum","palatum durum","A02.835.232.781.324.502.660","C0226901","http://www.wikidata.org/entity/Q1345983","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+171,NULL,"орбита","orbit","bony orbit","orbita","A02.835.232.781.324.690","","http://www.wikidata.org/entity/Q156075","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+172,NULL,"назална конха","nasal concha","turbinate","","A02.835.232.781.324.948","","http://www.wikidata.org/entity/Q11216176","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+173,NULL,"Вомер","vomer","vomeral bone","vomer","A02.835.232.781.324.971","","http://www.wikidata.org/entity/Q193527","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+174,NULL,"челна кост","frontal bone","os frontis","os frontale","A02.835.232.781.375","C0016732","http://www.wikidata.org/entity/Q16295","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+175,NULL,"тилна кост","occipital bone","ossification of occipital bone","os occipitale","A02.835.232.781.572","","http://www.wikidata.org/entity/Q16317","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+176,NULL,"форамен магнум","foramen magnum","","foramen magnum","A02.835.232.781.572.434","","http://www.wikidata.org/entity/Q426139","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+177,NULL,"париетална кост","parietal bone","","os parietale","A02.835.232.781.651","C0030558","http://www.wikidata.org/entity/Q16298","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+178,NULL,"сфеноидна кост","sphenoid bone","","os sphenoidale","A02.835.232.781.802","","http://www.wikidata.org/entity/Q16321","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+179,NULL,"темпорална кост","temporal bone","os temporale","os temporale","A02.835.232.781.885","C0039484","http://www.wikidata.org/entity/Q16313","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+180,NULL,"петролна част от темпоралната кост","petrous part of the temporal bone","petrous part of temporal bone","pars petrosa","A02.835.232.781.885.681","C0031266","http://www.wikidata.org/entity/Q1404198","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+181,NULL,"човешки гръбначен стълб","human vertebral column","","columna vertebralis","A02.835.232.834","","http://www.wikidata.org/entity/Q1979420","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+182,NULL,"шиен прешлен","cervical vertebra","cervical vertebrae","vertebrae cervicales","A02.835.232.834.151","C3665420","http://www.wikidata.org/entity/Q900457","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+183,NULL,"опашна кост","coccyx","tailbone","os coccygis","A02.835.232.834.229","","http://www.wikidata.org/entity/Q193176","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+184,NULL,"лумбални прешлени","lumbar vertebrae","lumbar vertebra","vertebrae lumbales","A02.835.232.834.519","C0024091","http://www.wikidata.org/entity/Q405478","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+185,NULL,"сакрум","sacrum","sacral vertebrae","os sacrum","A02.835.232.834.717","","http://www.wikidata.org/entity/Q233316","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+186,NULL,"гръбначен канал","spinal canal","vertebral canal","canalis vertebralis","A02.835.232.834.803","","http://www.wikidata.org/entity/Q781983","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+187,NULL,"гръден прешлен","thoracic vertebra","thoracic vertebrae","vertebrae thoracicae","A02.835.232.834.892","C0039987","http://www.wikidata.org/entity/Q578786","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+188,NULL,"Ребра","rib","","costae [I - XII]","A02.835.232.904.567","","http://www.wikidata.org/entity/Q196672","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+189,NULL,"гръдна кост","sternum","breastbone","sternum","A02.835.232.904.766","","http://www.wikidata.org/entity/Q8481","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+190,NULL,"xiphoid процес","xiphoid process","xiphisternum","processus xiphoideus","A02.835.232.904.766.825","","http://www.wikidata.org/entity/Q16359","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+191,NULL,"става","joint","joints","systema articulare","A02.835.583","","http://www.wikidata.org/entity/Q9644","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+192,NULL,"акромиоклавикуларна става","acromioclavicular joint","","articulatio acromioclavicularis","A02.835.583.032","","http://www.wikidata.org/entity/Q1640207","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+193,NULL,"Атланта-аксиална става","Atlanto-axial joint","atlantoaxial joint","articulatio atlantoaxialis mediana","A02.835.583.097","","http://www.wikidata.org/entity/Q2865747","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+194,NULL,"Атланта-окципитална става","Atlanto-occipital joint","","articulatio atlantooccipitalis","A02.835.583.101","","http://www.wikidata.org/entity/Q1169223","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+195,NULL,"лакътна става","elbow joint","joint of elbow","articulatio cubiti","A02.835.583.290","C0013770","http://www.wikidata.org/entity/Q11611456","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+196,NULL,"лакът","elbow","","cubitus","A02.835.583.290","","http://www.wikidata.org/entity/Q42586","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+197,NULL,"метакарпофалангеална става","metacarpophalangeal joint","MCP joint","articulationes metacarpophalangeae","A02.835.583.345.512","C0025525","http://www.wikidata.org/entity/Q14698418","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+198,NULL,"глезен","ankle","talocrural region","tarsus","A02.835.583.378.062","","http://www.wikidata.org/entity/Q168002","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+199,NULL,"Междузвездни артикулации","Intertarsal articulations","","","A02.835.583.378.831","","http://www.wikidata.org/entity/Q6057189","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+200,NULL,"Субтална става","Subtalar joint","","articulatio talocalcanea","A02.835.583.378.831.780","","http://www.wikidata.org/entity/Q7632190","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+201,NULL,"Междукарпални артикулации","Intercarpal articulations","","","A02.835.583.405.174","","http://www.wikidata.org/entity/Q6045628","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+202,NULL,"китка на ръка","wrist","","carpus","A02.835.583.405.930","","http://www.wikidata.org/entity/Q185706","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+203,NULL,"Триъгълна фиброкартила","Triangular fibrocartilage","","","A02.835.583.405.930.800","","http://www.wikidata.org/entity/Q1887448","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+204,NULL,"тазобедрена става","hip joint","coxafemoral joint","articulatio coxofemoralis","A02.835.583.411","C0019558","http://www.wikidata.org/entity/Q28792725","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+205,NULL,"колянна става","knee joint","","","A02.835.583.475","","http://www.wikidata.org/entity/Q62394131","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+206,NULL,"срамна симфиза","pubic symphysis","","symphysis pubica","A02.835.583.656","","http://www.wikidata.org/entity/Q1571074","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+207,NULL,"раменна става","shoulder joint","glenohumeral joint","articulatio humeri","A02.835.583.748","","http://www.wikidata.org/entity/Q1758798","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+208,NULL,"Стерноклавикуларна артикулация","Sternoclavicular articulation","Sternoclavicular joint","articulatio sternoclavicularis","A02.835.583.781","","http://www.wikidata.org/entity/Q640022","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+209,NULL,"темпоромандибуларна става","temporomandibular joint","","articulatio temporomandibularis","A02.835.583.861","","http://www.wikidata.org/entity/Q827134","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+210,NULL,"Зигапофизиална става","Zygapophysial joint","","articulationes zygapophysiales","A02.835.583.979","","http://www.wikidata.org/entity/Q1704251","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+211,2,"aхилесово сухожилие","Achilles tendon",NULL,"tendo calcanei","A02.880.176",NULL,"http://www.wikidata.org/entity/Q223172","2020-05-25 11:04:25","2020-05-25 11:50:39",NULL
+212,NULL,"жлъчни пътища","bile ducts","bile duct","ductus choledochus","A03.159.183","","http://www.wikidata.org/entity/Q851111","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+213,NULL,"извънпеченочен жлъчен канал","extrahepatic bile duct","extrahepatic bile ducts","","A03.159.183.079","","http://www.wikidata.org/entity/Q66510651","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+214,NULL,"ампула от Ватер","ampulla of Vater","hepatopancreatic duct","ampulla hepatopancreatica","A03.159.183.079.300.950","","http://www.wikidata.org/entity/Q594066","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+215,NULL,"Сфинктер на ампула","Sphincter of ampulla","","m. sphincter ampullae","A03.159.183.079.300.950.600","","http://www.wikidata.org/entity/Q2084566","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+216,NULL,"кистозен канал","cystic duct","","ductus cysticus","A03.159.183.079.450","","http://www.wikidata.org/entity/Q664439","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+217,NULL,"общ чернодробен канал","common hepatic duct","hepatic duct","ductus hepaticus communis","A03.159.183.079.600","","http://www.wikidata.org/entity/Q2043581","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+218,NULL,"интрахепатални жлъчни пътища","intrahepatic bile ducts","intrahepatic bile duct","","A03.159.183.158","","http://www.wikidata.org/entity/Q12233655","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+219,NULL,"жлъчен мехур","gallbladder","Gall bladder","vesica fellea","A03.159.439","","http://www.wikidata.org/entity/Q64386","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+220,NULL,"стомашно-чревния тракт","gastrointestinal tract","GI tract","","A03.556","","http://www.wikidata.org/entity/Q11829360","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+221,NULL,"черво","intestine","intestines","","A03.556.124","","http://www.wikidata.org/entity/Q9639","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+222,NULL,"чревна лигавица","intestinal mucosa","","","A03.556.124.369","","http://www.wikidata.org/entity/Q64829404","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+223,NULL," large\"","large intestine","\"intestine","","intestinum crassum","A03.556.124.526","http://www.wikidata.org/entity/Q11083","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+224,NULL,"анален канал","anal canal","","canalis analis","A03.556.124.526.070","C0227411","http://www.wikidata.org/entity/Q2465231","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+225,NULL,"Цекум","cecum","ceca","caecum","A03.556.124.526.209","C0007531","http://www.wikidata.org/entity/Q185317","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+226,NULL,"апендикс","appendix","vermix","appendix vermiformis","A03.556.124.526.209.290","C0003617","http://www.wikidata.org/entity/Q9656","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+227,NULL,"дебело черво","colon","","colon","A03.556.124.526.356","C0009368","http://www.wikidata.org/entity/Q5982337","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+228,NULL," ascending\"","ascending colon","\"colon","","colon ascendens","A03.556.124.526.356.333","http://www.wikidata.org/entity/Q2562556","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+229,NULL," descending\"","descending colon","\"colon","","colon descendens","A03.556.124.526.356.500","http://www.wikidata.org/entity/Q2562565","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+230,NULL,"сигмоидно дебело черво","sigmoid colon","pelvic colon","colon sigmoideum","A03.556.124.526.356.668","C0227391","http://www.wikidata.org/entity/Q677253","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+231,NULL," transverse\"","transverse colon","\"colon","","colon transversum","A03.556.124.526.356.834","http://www.wikidata.org/entity/Q2619732","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+232,NULL,"Ректум","rectum","","rectum","A03.556.124.526.767","","http://www.wikidata.org/entity/Q158716","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+233,NULL,"тънко черво","small intestine","small bowel","intestinum tenue","A03.556.124.684","C0021852","http://www.wikidata.org/entity/Q11090","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+234,NULL,"Дуоденум","duodenum","","duodenum","A03.556.124.684.124","C0013303","http://www.wikidata.org/entity/Q134955","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+235,NULL,"Илео-цекален сфинктер","ileocecal valve","valve of Bauhin","","A03.556.124.684.249.400","C0020880","http://www.wikidata.org/entity/Q1068559","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+236,NULL,"първата част от тънкото черво","jejunum","","jejunum","A03.556.124.684.500","C0022378","http://www.wikidata.org/entity/Q185765","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+237,NULL,"слюнчен","salivary","saliva amilase secreting gland","glandulae salivariae","A03.556.500.760","C0036098","http://www.wikidata.org/entity/Q134938","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+238,NULL,"Паротидна жлеза","parotid gland","","glandula parotidea","A03.556.500.760.464","C0030580","http://www.wikidata.org/entity/Q691653","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+239,NULL,"канал на слюнчените жлези","duct of salivary gland","salivary gland duct","","A03.556.500.760.640","","http://www.wikidata.org/entity/Q66556304","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+240,NULL,"подязична жлеза","sublingual gland","Rivinus' gland","glandula sublingualis","A03.556.500.760.687","C0038553","http://www.wikidata.org/entity/Q692200","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+241,NULL,"субмандибуларна жлеза","submandibular gland","","glandula submandibularis","A03.556.500.760.812","C0038556","http://www.wikidata.org/entity/Q579886","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+242,NULL,"език","tongue","lengua","lingua","A03.556.500.885","","http://www.wikidata.org/entity/Q9614","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+243,NULL,"вкусови рецептори","taste buds","tastebud","caliculus gustatorius","A03.556.500.885.779","C0039337","http://www.wikidata.org/entity/Q862867","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+244,NULL,"Глътка","pharynx","","pharynx","A03.556.750","C0031354","http://www.wikidata.org/entity/Q174778","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+245,NULL,"Езофаг","esophagus","Esofago","oesophagus","A03.556.875.500","","http://www.wikidata.org/entity/Q173710","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+246,NULL,"стомах","stomach","","gaster","A03.556.875.875","C0038351","http://www.wikidata.org/entity/Q1029907","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+247,NULL,"Фундус","fundus","gastric fundus","fundus gastricus","A03.556.875.875.419","C0017129","http://www.wikidata.org/entity/Q2449197","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+248,NULL,"стомашна главна клетка","gastric chief cell","chief cell of stomach","","A03.556.875.875.440.150","","http://www.wikidata.org/entity/Q2595765","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+249,NULL,"черен дроб","liver","hepar","hepar","A03.620","C0023884","http://www.wikidata.org/entity/Q9368","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+250,NULL,"панкреас","pancreas","","pancreas","A03.734","","http://www.wikidata.org/entity/Q9618","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+251,NULL,"панкреатичен канал","pancreatic duct","","ductus pancreaticus","A03.734.667","","http://www.wikidata.org/entity/Q668063","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+252,NULL,"дихателната система","respiratory system","pulmonary system","systema respiratorium","A04","C0035237","http://www.wikidata.org/entity/Q7891","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+253,NULL,"ларинкс","larynx","","larynx","A04.329","C0023078","http://www.wikidata.org/entity/Q9637","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+254,NULL,"глотис","glottis","","glottis","A04.329.364","","http://www.wikidata.org/entity/Q374418","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+255,NULL,"гласови гънки","vocal folds","voice reeds","plica vocalis","A04.329.364.737","","http://www.wikidata.org/entity/Q215558","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+256,NULL,"бял дроб","human lung","diaphragmatic surface of lung","pulmones","A04.411","","http://www.wikidata.org/entity/Q2640512","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+257,NULL,"бял дроб","lung","lungs","pulmones","A04.411","","http://www.wikidata.org/entity/Q7886","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+258,NULL,"Бронх","bronchus","bronchi","bronchi","A04.411.125","C0006255","http://www.wikidata.org/entity/Q181602","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+259,NULL,"алвеоларна епителна клетка","alveolar epithelial cell","alveolar epithelial cells","","A04.411.715.100","","http://www.wikidata.org/entity/Q66558811","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+260,NULL,"кръвно-въздушна бариера","blood-air barrier","Respiratory membrane","","A04.411.715.200","C0005853","http://www.wikidata.org/entity/Q886410","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+261,NULL,"Носната кухина","Nasal cavity","nasal fossa","cavitas nasi","A04.531.449","C0027423","http://www.wikidata.org/entity/Q156104","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+262,NULL,"Обонятелна лигавица","Olfactory mucosa","","","A04.531.520.573","","http://www.wikidata.org/entity/Q7086517","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+263,NULL,"етмоиден синус","ethmoid sinus","ethmoidal air cell","cellulae ethmoidales","A04.531.621.267","C0015028","http://www.wikidata.org/entity/Q256356","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+264,NULL,"челен синус","frontal sinus","","sinus frontalis","A04.531.621.387","C0016734","http://www.wikidata.org/entity/Q918118","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+265,NULL,"максиларен синус","maxillary sinus","sinus of maxilla","sinus maxillaris","A04.531.621.578","C0024957","http://www.wikidata.org/entity/Q6498170","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+266,NULL,"сфеноидален синус","sphenoidal sinus","sphenoid sinus","sinus sphenoidalis","A04.531.621.827","C0037885","http://www.wikidata.org/entity/Q1049298","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+267,NULL,"Сливица","tonsil","","tonsilla palatina","A04.623.603.925","","http://www.wikidata.org/entity/Q180569","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+268,NULL,"респираторен епител","respiratory epithelium","respiratory tract epithelium","","A04.760","C0225385","http://www.wikidata.org/entity/Q1428754","2020-05-25 11:04:25","2020-06-05 07:26:47",NULL
+269,NULL,"Трахея","trachea","","trachea","A04.889","C0040578","http://www.wikidata.org/entity/Q175449","2020-05-25 11:04:25","2020-05-25 11:04:25",NULL
+270,NULL,"гениталии","sex organ","primary sexual characteristic","","A05.360","","http://www.wikidata.org/entity/Q4620674","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+271,NULL,"Фалопиева тръба","fallopian tube","uterine tube","tuba uterina","A05.360.319.114.373","","http://www.wikidata.org/entity/Q1233836","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+272,NULL,"яйчник","ovary","","ovarium","A05.360.319.114.630","","http://www.wikidata.org/entity/Q9631","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+273,NULL,"яйчников фоликул","ovarian follicle","","folliculi ovarici vesiculosi","A05.360.319.114.630.535","","http://www.wikidata.org/entity/Q953556","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+274,NULL,"кръгъл лигамент на матката","round ligament of uterus","","lig. teres uteri","A05.360.319.114.803","","http://www.wikidata.org/entity/Q1527057","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+275,NULL,"матка","uterus","womb","uterus","A05.360.319.679","","http://www.wikidata.org/entity/Q9612","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+276,NULL,"маточна шийка","cervix","","cervix uteri","A05.360.319.679.256","","http://www.wikidata.org/entity/Q666412","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+277,NULL,"ендометриум","endometrium","","tunica mucosa","A05.360.319.679.490","","http://www.wikidata.org/entity/Q839508","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+278,NULL,"вагина","vagina","","vagina","A05.360.319.779","","http://www.wikidata.org/entity/Q5880","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+279,NULL,"химен","hymen","Virginal membrane","hymen","A05.360.319.779.479","","http://www.wikidata.org/entity/Q1640627","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+280,NULL,"пичка","vulva","pussy","vulva","A05.360.319.887","","http://www.wikidata.org/entity/Q2192288","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+281,NULL,"Бартолинови жлези","Bartholin's gland","greater vestibular gland","glandula vestibularis major","A05.360.319.887.220","","http://www.wikidata.org/entity/Q790949","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+282,NULL,"клитор","clitoris","","clitoris","A05.360.319.887.436","","http://www.wikidata.org/entity/Q873072","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+283,NULL,"мъжка репродуктивна система","male reproductive system","male genitalia","systema genitale masculinum","A05.360.444","","http://www.wikidata.org/entity/Q842083","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+284,NULL,"бульбуретрална жлеза","bulbourethral gland","Cowper's gland","","A05.360.444.123","","http://www.wikidata.org/entity/Q120463","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+285,NULL,"еякулаторен канал","ejaculatory duct","","ductus ejaculatorius","A05.360.444.251","","http://www.wikidata.org/entity/Q1063420","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+286,NULL,"Епидидим","epididymis","vescile","","A05.360.444.371","","http://www.wikidata.org/entity/Q1973610","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+287,NULL,"пенис","human penis","","penis","A05.360.444.492","","http://www.wikidata.org/entity/Q8124","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+288,NULL,"препуциум","foreskin","preputium penis","preputium penis","A05.360.444.492.362","","http://www.wikidata.org/entity/Q673203","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+289,NULL,"пикочен канал","urethra","","","A05.360.444.492.726","C0041967","http://www.wikidata.org/entity/Q9386","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+290,NULL,"простата","prostate","","prostata","A05.360.444.575","","http://www.wikidata.org/entity/Q9625","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+291,NULL,"Мъдница","scrotum","","scrotum","A05.360.444.661","","http://www.wikidata.org/entity/Q174471","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+292,NULL,"семенна везикула","seminal vesicula","seminal gland","","A05.360.444.713","","http://www.wikidata.org/entity/Q217259","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+293,NULL,"сперматозоид","spermatic cord","","","A05.360.444.777","","http://www.wikidata.org/entity/Q740900","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+294,NULL,"тестис","testicle","testis","testis","A05.360.444.849","","http://www.wikidata.org/entity/Q9384","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+295,NULL,"Клетка Лейдиг","Leydig cell","Leydig cells","","A05.360.444.849.513","","http://www.wikidata.org/entity/Q636846","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+296,NULL,"rete testis","rete testis","","rete testis","A05.360.444.849.600","","http://www.wikidata.org/entity/Q2709123","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+297,NULL,"семенна тръба","seminiferous tubule","","tubuli seminiferi contorti","A05.360.444.849.700","","http://www.wikidata.org/entity/Q503431","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+298,NULL,"Клетка Сертоли","Sertoli cell","sertoli cell","","A05.360.444.849.789","","http://www.wikidata.org/entity/Q195614","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+299,NULL,"vas deferens","vas deferens","ductus deferens","","A05.360.444.930","","http://www.wikidata.org/entity/Q735505","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+300,NULL,"микроб","germ cell","","","A05.360.490","C0017471","http://www.wikidata.org/entity/Q281579","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+301,NULL,"овоцити","oocyte","ovocyte","","A05.360.490.690.680","","http://www.wikidata.org/entity/Q3246226","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+302,NULL,"полярно тяло","polar body","Polar Bodies","","A05.360.490.690.680.500","","http://www.wikidata.org/entity/Q1890716","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+303,NULL,"Oogonium","Oogonium","oogonium","","A05.360.490.690.700","","http://www.wikidata.org/entity/Q2024775","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+304,NULL,"Zona pellucida","Zona pellucida","","","A05.360.490.690.950","","http://www.wikidata.org/entity/Q219841","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+305,NULL,"сперматозоид","spermatozoon","","","A05.360.490.890","","http://www.wikidata.org/entity/Q74560","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+306,NULL,"сперматозоид","sperm head","","","A05.360.490.890.820","","http://www.wikidata.org/entity/Q28598865","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+307,NULL,"Spermatid","Spermatid","spermatid","","A05.360.490.890.860","","http://www.wikidata.org/entity/Q1494188","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+308,NULL,"spermatocyte","spermatocyte","spermatocytes","","A05.360.490.890.880","","http://www.wikidata.org/entity/Q3486515","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+309,NULL,"сперматогониите","Spermatogonium","spermatogonium","","A05.360.490.890.900","","http://www.wikidata.org/entity/Q5560024","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+310,NULL,"гонада","gonad","sex gland","","A05.360.576","","http://www.wikidata.org/entity/Q213456","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+311,NULL,"пикочен мехур","urinary bladder","bladder","vesica urinaria","A05.810.161","C0005682","http://www.wikidata.org/entity/Q9382","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+312,NULL,"бъбрек","kidney","","ren","A05.810.453","","http://www.wikidata.org/entity/Q9377","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+313,NULL,"бъбречна кора","renal cortex","kidney cortex","cortex renalis","A05.810.453.324","","http://www.wikidata.org/entity/Q2307492","2020-05-25 11:04:26","2020-06-05 07:26:47",NULL
+314,NULL,"гломерулите","glomerulus","renal glomerulus","","A05.810.453.324.359","C0022663","http://www.wikidata.org/entity/Q909882","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+315,NULL,"бъбречна медула","renal medulla","medulla renalis","medulla renalis","A05.810.453.466","","http://www.wikidata.org/entity/Q2409399","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+316,NULL,"бъбречен таз","renal pelvis","pelvis of the kidney","pelvis renalis","A05.810.453.537","C0227666","http://www.wikidata.org/entity/Q955020","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+317,NULL,"бъбречна чашка","renal calyx","renal calix","","A05.810.453.537.503","C0022651","http://www.wikidata.org/entity/Q2200632","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+318,NULL,"бримка на Хенле","loop of Henle","intermediate tubule","","A05.810.453.736.560.610","","http://www.wikidata.org/entity/Q1813955","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+319,NULL,"уретер","ureter","","ureter","A05.810.776","C0041951","http://www.wikidata.org/entity/Q9385","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+320,NULL,"Viva espana","Viva espana","","","A06","C0014136","http://www.wikidata.org/entity/Q11078","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+321,NULL,"медуларна хромофинова клетка","medullary chromaffin cell","chromaffin cell","","A06.224.161","","http://www.wikidata.org/entity/Q919689","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+322,NULL,"надбъбречна кора","adrenal cortex","","cortex","A06.300.071.140","C0001613","http://www.wikidata.org/entity/Q19065","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+323,NULL,"зона гломерулоза","zona glomerulosa","zona glomerulosa of adrenal gland","","A06.300.071.140.960","C0043518","http://www.wikidata.org/entity/Q3551060","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+324,NULL,"надбъбречна медула","adrenal medulla","","medulla","A06.300.071.265","C0001629","http://www.wikidata.org/entity/Q934888","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+325,NULL,"хипофизно-надбъбречната система","pituitary-adrenal system","","","A06.300.691","","http://www.wikidata.org/entity/Q67086239","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+326,NULL,"Адренална жлеза","adrenal gland","suprarenal gland","glandula suprarenalis","A06.407.071","C0001625","http://www.wikidata.org/entity/Q712294","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+327,NULL,"паращитовидната","parathyroid","parathyroid gland","glandula parathyroidea","A06.407.560","","http://www.wikidata.org/entity/Q650401","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+328,NULL,"Хипофизна жлеза","pituitary gland","hypophysis","glandula pituitaria","A06.407.747","","http://www.wikidata.org/entity/Q156871","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+329,NULL,"предна хипофиза","anterior pituitary","anterior lobe of pituitary gland","lobus anterior","A06.407.747.608","C0032008","http://www.wikidata.org/entity/Q356002","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+330,NULL,"задната част на хипофизата","posterior pituitary","Posterior pituitaryもしくはNeurohypophysis","lobus posterior","A06.407.747.734","C0032009","http://www.wikidata.org/entity/Q1503735","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+331,NULL,"щитовидната жлеза","thyroid gland","thyroid","glandula thyroidea","A06.407.900","","http://www.wikidata.org/entity/Q16399","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+332,NULL,"Хипофизна портална система","Hypophyseal portal system","Hypothalamo-Hypophyseal System","","A06.688.357","","http://www.wikidata.org/entity/Q1531242","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+333,NULL," circulatory organ\"","Human Circulatory system","\"Circulation","","vas sanguineum","A07","http://www.wikidata.org/entity/Q11068","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+334,NULL,"Кръвоносни съдове","blood vessel","edder","vas sanguineum","A07.015","","http://www.wikidata.org/entity/Q988343","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+335,NULL,"целиакия","celiac artery","coeliac artery","truncus coeliacus","A07.015.114.207","C0007569","http://www.wikidata.org/entity/Q519368","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+336,NULL,"коронарен съд","coronary vessel","coronary vessels","","A07.015.114.269","","http://www.wikidata.org/entity/Q67315798","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+337,NULL,"обща чернодробна артерия","common hepatic artery","hepatic artery","arteria hepatica communis","A07.015.114.407","C0226300","http://www.wikidata.org/entity/Q707236","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+338,NULL,"радиална артерия","radial artery","","Arteria radialis","A07.015.114.740","","http://www.wikidata.org/entity/Q662857","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+339,NULL,"tunica intima","tunica intima","tunica intima of vessel","tunica intima","A07.015.700","C0162864","http://www.wikidata.org/entity/Q1484346","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+340,NULL,"чернодробна вена","hepatic vein","hepatic veins","vv. hepaticae","A07.015.908.380","","http://www.wikidata.org/entity/Q1578686","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+341,NULL,"подкожна вена","saphenous vein","","","A07.015.908.819","","http://www.wikidata.org/entity/Q30015816","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+342,NULL,"кръвна мозъчна бариера","blood–brain barrier","hematoencephalic barrier","","A07.035","","http://www.wikidata.org/entity/Q221694","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+343,NULL,"артерия","artery","arteries","arteria","A07.231.114","C0003842","http://www.wikidata.org/entity/Q9655","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+344,NULL,"аорта","aorta","main artery","aorta","A07.231.114.056","C0003483","http://www.wikidata.org/entity/Q101004","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+345,NULL,"коремна аорта","abdominal aorta","","pars abdominalis aortae","A07.231.114.056.205","","http://www.wikidata.org/entity/Q2264329","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+346,NULL,"гръдна аорта","thoracic aorta","","pars thoracica aortae","A07.231.114.056.372","C1522460","http://www.wikidata.org/entity/Q615993","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+347,NULL,"артериоли","arteriole","arteriola","arteriola","A07.231.114.060","C0003847","http://www.wikidata.org/entity/Q501908","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+348,NULL,"Arteria axillaris","axillary artery","","arteria axillaris","A07.231.114.085","","http://www.wikidata.org/entity/Q502164","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+349,NULL,"базиларна артерия","basilar artery","","arteria basilaris","A07.231.114.106","","http://www.wikidata.org/entity/Q500339","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+350,NULL,"Arteria brachialis","brachial artery","","arteria brachialis","A07.231.114.139","","http://www.wikidata.org/entity/Q503643","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+351,NULL,"обща каротидна артерия","common carotid artery","Common carotid artery","Arteria carotis communis","A07.231.114.186.200","C0162859","http://www.wikidata.org/entity/Q214275","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+352,NULL,"Arteria carotis externa","external carotid artery","","arteria carotis externa","A07.231.114.186.200.210","C0007275","http://www.wikidata.org/entity/Q125276","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+353,NULL,"вътрешна каротидна артерия","internal carotid artery","internal carotid","Arteria carotis interna","A07.231.114.186.200.230","C0007276","http://www.wikidata.org/entity/Q515848","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+354,NULL,"каротиден синус","carotid sinus","sinus caroticus","sinus caroticus","A07.231.114.186.456","","http://www.wikidata.org/entity/Q956224","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+355,NULL,"предна церебрална артерия","anterior cerebral artery","","arteria cerebri anterior","A07.231.114.228.100","","http://www.wikidata.org/entity/Q498935","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+356,NULL,"Кръг на Уилис","Circle of Willis","Willis' circle","circulus arteriosus cerebri","A07.231.114.228.351","","http://www.wikidata.org/entity/Q487595","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+357,NULL,"задна церебрална артерия","posterior cerebral artery","PCA","arteria cerebri posterior","A07.231.114.228.700","C0149576","http://www.wikidata.org/entity/Q492482","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+358,NULL,"Повърхностна епигастрална артерия","Superficial epigastric artery","","Arteria epigastrica superficialis","A07.231.114.330","","http://www.wikidata.org/entity/Q707145","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+359,NULL,"Феморална артерия","femoral artery","","Arteria femoralis","A07.231.114.351","","http://www.wikidata.org/entity/Q707174","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+360,NULL,"вътрешна илиачна артерия","internal iliac artery","","arteria iliaca interna","A07.231.114.444","C0226364","http://www.wikidata.org/entity/Q532558","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+361,NULL,"долна мезентериална артерия","inferior mesenteric artery","IMA","arteria mesenterica inferior","A07.231.114.565.510","C0162860","http://www.wikidata.org/entity/Q707384","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+362,NULL,"превъзходна мезентериална артерия","superior mesenteric artery","SMA","arteria mesenterica superior","A07.231.114.565.755","C0162861","http://www.wikidata.org/entity/Q367570","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+363,NULL,"офталмологична артерия","ophthalmic artery","","arteria ophthalmica","A07.231.114.622","","http://www.wikidata.org/entity/Q497574","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+364,NULL,"поплитеална артерия","popliteal artery","","arteria poplitea","A07.231.114.681","","http://www.wikidata.org/entity/Q707468","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+365,NULL,"белодробна артерия","pulmonary artery","pulmonary arteries","arteria pulmonalis","A07.231.114.715","C0034052","http://www.wikidata.org/entity/Q206280","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+366,NULL,"бъбречна артерия","renal artery","","arteria renalis","A07.231.114.745","C0035065","http://www.wikidata.org/entity/Q707540","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+367,NULL,"централна артерия на ретината","central retinal artery","","arteria centralis retinae","A07.231.114.765","","http://www.wikidata.org/entity/Q489722","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+368,NULL,"далакова артерия","splenic artery","lienal artery","a. splenica","A07.231.114.814","C0037996","http://www.wikidata.org/entity/Q707326","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+369,NULL,"Arteria subclavia","subclavian artery","","arteria subclavia","A07.231.114.839","C0038530","http://www.wikidata.org/entity/Q490059","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+370,NULL,"гръбначна артерия","vertebral artery","","arteria vertebralis","A07.231.114.839","C0042559","http://www.wikidata.org/entity/Q516546","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+371,NULL,"вътрешна гръдна артерия","internal thoracic artery","ITA","arteria thoracica interna","A07.231.114.891.525","","http://www.wikidata.org/entity/Q497563","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+372,NULL,"Пъпна артерия","Umbilical artery","","Arteria umbilicalis","A07.231.114.929","","http://www.wikidata.org/entity/Q1724233","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+373,NULL,"улнарна артерия","ulnar artery","","Arteria Ulnaris","A07.231.114.955","","http://www.wikidata.org/entity/Q599817","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+374,NULL,"вена","vein","vena","vena","A07.231.908","C0042449","http://www.wikidata.org/entity/Q9609","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+375,NULL,"аксиларна вена","axillary vein","","vena axillaris","A07.231.908.077","","http://www.wikidata.org/entity/Q682122","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+376,NULL,"азигос вена","azygos vein","","vena azygos","A07.231.908.106","","http://www.wikidata.org/entity/Q591137","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+377,NULL,"Vena brachiocephalica","brachiocephalic vein","innominate vein","vena brachiocephalica","A07.231.908.130","","http://www.wikidata.org/entity/Q2341350","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+378,NULL,"брахиоцефална артерия","brachiocephalic artery","innominate artery","truncus brachiocephalicus","A07.231.908.130","C0006094","http://www.wikidata.org/entity/Q515917","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+379,NULL,"дурални венозни синуси","dural venous sinuses","dural sinuses","sinus durae matris","A07.231.908.224","","http://www.wikidata.org/entity/Q1322802","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+380,NULL,"кавернозен синус","cavernous sinus","","sinus cavernosus","A07.231.908.224","","http://www.wikidata.org/entity/Q1457751","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+381,NULL,"превъзходен сагитален синус","superior sagittal sinus","","sinus sagittalis superior","A07.231.908.224","","http://www.wikidata.org/entity/Q4115976","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+382,NULL,"напречни синуси","transverse sinuses","lateral sinus","sinus transversus","A07.231.908.224","","http://www.wikidata.org/entity/Q5860395","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+383,NULL,"бедрена вена","femoral vein","","v. femoralis","A07.231.908.314","","http://www.wikidata.org/entity/Q368521","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+384,NULL,"яремна вена","jugular vein","","","A07.231.908.498","","http://www.wikidata.org/entity/Q749592","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+385,NULL,"поплитеална вена","popliteal vein","","v. poplitea","A07.231.908.641","","http://www.wikidata.org/entity/Q2746562","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+386,NULL,"чернодробна портална вена","hepatic portal vein","portal vein","vena portae hepatis","A07.231.908.670.567","","http://www.wikidata.org/entity/Q464543","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+387,NULL,"далака вена","splenic vein","","vena splenica","A07.231.908.670.730","","http://www.wikidata.org/entity/Q3091615","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+388,NULL,"белодробна вена","pulmonary vein","pulmonary veins","venae pulmonales","A07.231.908.713","C0034090","http://www.wikidata.org/entity/Q535352","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+389,NULL,"бъбречна вена","renal vein","","vv. renales","A07.231.908.752","","http://www.wikidata.org/entity/Q132318","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+390,NULL,"Vena subclavia","subclavian vein","","vena subclavia","A07.231.908.877","","http://www.wikidata.org/entity/Q493430","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+391,NULL,"Главна артерия","vena cava","venae cavae","","A07.231.908.949","C0042460","http://www.wikidata.org/entity/Q372409","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+392,NULL," Inferior\"","inferior vena cava","\"Vena Cava","","vena cava inferior","A07.231.908.949.648","http://www.wikidata.org/entity/Q745438","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+393,NULL,"Vena cava superior","superior vena cava","anterior vena cava","vena cava superior","A07.231.908.949.815","C0042459","http://www.wikidata.org/entity/Q736995","2020-05-25 11:04:26","2020-05-25 11:04:26",NULL
+394,NULL,"човешко сърце","human heart","","cor","A07.541","","http://www.wikidata.org/entity/Q2419844","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+395,NULL,"сърце","heart","","cor","A07.541","","http://www.wikidata.org/entity/Q1072","2020-05-25 11:04:26","2020-06-05 07:26:48",NULL
+396,NULL,"ductus arteriosus","ductus arteriosus","","Ductus arteriosus","A07.541.278.395","C0013273","http://www.wikidata.org/entity/Q1163923","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+397,NULL,"truncus arteriosus","truncus arteriosus","","","A07.541.278.930","C0041206","http://www.wikidata.org/entity/Q7847942","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+398,NULL,"предсърден придатък","atrial appendage","atrial appendages","","A07.541.358.100","","http://www.wikidata.org/entity/Q1615482","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+399,NULL,"система за електрическа проводимост на сърцето","electrical conduction system of the heart","heart conduction system","systema conducens cordis","A07.541.409","","http://www.wikidata.org/entity/Q72711","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+400,NULL,"синоатриален възел","sinoatrial node","sinus node","nodus sinuatrialis","A07.541.409.819","","http://www.wikidata.org/entity/Q286020","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+401,NULL,"междувентрикуларна преграда","interventricular septum","ventricular septum","septum interventriculare","A07.541.459","C0225870","http://www.wikidata.org/entity/Q2397680","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+402,NULL,"интератриална септума","interatrial septum","atrial septum","septum interatriale","A07.541.459","C0225836","http://www.wikidata.org/entity/Q2529769","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+403,NULL,"ендокардна възглавница","endocardial cushion","endocardial cushions","","A07.541.459.374","","http://www.wikidata.org/entity/Q2879939","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+404,NULL,"foramen ovale","foramen ovale","","foramen ovale cordis","A07.541.459.500","","http://www.wikidata.org/entity/Q767116","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+405,NULL,"сърдечна клапа","heart valve","heart valves","","A07.541.510","","http://www.wikidata.org/entity/Q215620","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+406,NULL,"аортна клапа","aortic valve","","valva aortae","A07.541.510.110","C0003501","http://www.wikidata.org/entity/Q616071","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+407,NULL,"Chordae tendineae","Chordae tendineae","","chordae tendineae","A07.541.510.240","","http://www.wikidata.org/entity/Q1076385","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+408,NULL,"митрална клапа","mitral valve","left atrioventricular valve","valva atrioventricularis sinistra","A07.541.510.507","C0026264","http://www.wikidata.org/entity/Q369939","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+409,NULL,"белодробна клапа","pulmonary valve","pulmonic valve","valva trunci pulmonalis","A07.541.510.738","C0034086","http://www.wikidata.org/entity/Q1552748","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+410,NULL,"трикуспидна клапа","tricuspid valve","right atrioventricular valve","valva atrioventricularis dextra","A07.541.510.893","C0040960","http://www.wikidata.org/entity/Q1344255","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+411,NULL,"перикард","pericardium","Epicardial","pericardium","A07.541.795","","http://www.wikidata.org/entity/Q193302","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+412,NULL,"нервна система","nervous system","","","A08","","http://www.wikidata.org/entity/Q9404","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+413,NULL,"Централната нервна система","Central nervous system","(CNS)","systema nervosum centrale","A08.186","","http://www.wikidata.org/entity/Q47273","2020-05-25 11:04:27","2020-05-25 11:04:27",NULL
+414,NULL,"главен мозък","cerebrum","","telencephalon","A08.186.21.730.885","C0242202","http://www.wikidata.org/entity/Q75855","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+415,NULL,"мозък","brain","animal brain","cerebrum","A08.186.211","C1269537","http://www.wikidata.org/entity/Q1073","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+416,NULL,"мозъчен ствол","brain stem","brainstem","truncus encephali","A08.186.211.132","","http://www.wikidata.org/entity/Q182228","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+417,NULL,"мезенцефалона","mesencephalon","midbrain","mesencephalon","A08.186.211.132.659","","http://www.wikidata.org/entity/Q185080","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+418,NULL,"долен коликулус","inferior colliculus","inferior colliculi","colliculus inferior","A08.186.211.132.659.237.364","","http://www.wikidata.org/entity/Q358512","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+419,NULL,"превъзходен коликулус","superior colliculus","superior colliculi","colliculus superior","A08.186.211.132.659.237.816","","http://www.wikidata.org/entity/Q1109417","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+420,NULL,"церебрален дръжка","cerebral peduncle","","pedunculus cerebri","A08.186.211.132.659.413","","http://www.wikidata.org/entity/Q646944","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+421,NULL,"Едингер “Вестфално ядро","Edinger–Westphal nucleus","Accessory oculomotor nucleus","","A08.186.211.132.659.413.875.381.500","","http://www.wikidata.org/entity/Q165312","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+422,NULL,"рафе ядра","raphe nuclei","","nuclei raphes","A08.186.211.132.659.632","","http://www.wikidata.org/entity/Q2061493","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+423,NULL,"Substantia nigra","substantia nigra","","substantia nigra","A08.186.211.132.659.687","","http://www.wikidata.org/entity/Q753278","2020-05-25 11:04:27","2020-05-25 11:04:27",NULL
+424,NULL,"предречна област","pretectal area","pretectum","area pretectalis","A08.186.211.132.659.800.662","C0175354","http://www.wikidata.org/entity/Q640536","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+425,NULL,"среден мозък tegmentum","midbrain tegmentum","","","A08.186.211.132.659.822","","http://www.wikidata.org/entity/Q6841128","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+426,NULL,"мозъчен акведукт","cerebral aqueduct","midbrain cerebral aqueduct","aqueductus cerebri","A08.186.211.132.659.822.187","C0007769","http://www.wikidata.org/entity/Q623016","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+427,NULL,"периакуедуктално сиво","periaqueductal gray","","substantia grisea centralis","A08.186.211.132.659.822.595","","http://www.wikidata.org/entity/Q1243765","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+428,NULL,"червено ядро","red nucleus","","nucleus ruber","A08.186.211.132.659.822.642","","http://www.wikidata.org/entity/Q1751717","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+429,NULL,"ретикуларна формация","reticular formation","","formatio reticularis","A08.186.211.132.772","","http://www.wikidata.org/entity/Q750588","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+430,NULL,"rhombencephalon","rhombencephalon","hindbrain","rhombencephalon","A08.186.211.132.810","","http://www.wikidata.org/entity/Q1137072","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+431,NULL,"Площ пострема","Area postrema","","area postrema","A08.186.211.132.810.406.286","","http://www.wikidata.org/entity/Q640532","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+432,NULL,"самотно ядро","solitary nucleus","nucleus of solitary tract","nuclei tractus solitarii","A08.186.211.132.810.406.750","","http://www.wikidata.org/entity/Q119744","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+433,NULL,"metencephalon","metencephalon","","metencephalon","A08.186.211.132.810.428","","http://www.wikidata.org/entity/Q1500793","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+434,NULL,"Cerebellum","cerebellum","","cerebellum","A08.186.211.132.810.428.200","","http://www.wikidata.org/entity/Q130983","2020-05-25 11:04:27","2020-05-25 11:04:27",NULL
+435,NULL,"мозъчни клетки Голджи","cerebellar Golgi cells","cerebellar Golgi cell","","A08.186.211.132.810.428.200.212.150","","http://www.wikidata.org/entity/Q83828950","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+436,NULL,"церебелопонтинов ъгъл","cerebellopontine angle","","angulus pontocerebellaris","A08.186.211.132.810.428.200.462","","http://www.wikidata.org/entity/Q3617410","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+437,NULL,"Понс","pons","","pons","A08.186.211.132.810.428.600","","http://www.wikidata.org/entity/Q192570","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+438,NULL,"кохлеарни ядра","cochlear nuclei","","nuclei cochleares","A08.186.211.132.810.428.600.135","","http://www.wikidata.org/entity/Q387776","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+439,NULL,"Nucleus raphe magnus","Nucleus raphe magnus","","nucleus raphes magnus","A08.186.211.132.810.428.600.650.562.500","","http://www.wikidata.org/entity/Q17143534","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+440,NULL,"Тригеминално двигателно ядро","Trigeminal motor nucleus","","nucleus motorius nervi trigemini","A08.186.211.132.810.428.600.650.718","","http://www.wikidata.org/entity/Q7841673","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+441,NULL,"продълговата медула","medulla oblongata","medulla","medulla oblongata","A08.186.211.132.810.591.500","","http://www.wikidata.org/entity/Q189033","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+442,NULL,"маслено тяло","olivary body","","","A08.186.211.132.810.591.500.574","","http://www.wikidata.org/entity/Q452983","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+443,NULL,"тектоспиналния тракт","tectospinal tract","tectospinal pathway","tractus tectospinalis","A08.186.211.132.810.753","","http://www.wikidata.org/entity/Q7692864","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+444,NULL,"Тригеминалните нервни ядра","Trigeminal nerve nuclei","","","A08.186.211.132.931","","http://www.wikidata.org/entity/Q7841674","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+445,NULL,"гръбначно тригеминално ядро","spinal trigeminal nucleus","","nucleus spinalis nervi trigemini","A08.186.211.132.931.920","","http://www.wikidata.org/entity/Q7577476","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+446,NULL,"камерна система","ventricular system","cerebral ventricles","","A08.186.211.140","C0007799","http://www.wikidata.org/entity/Q105402","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+447,NULL,"четвърта камера","fourth ventricle","","ventriculus quartus","A08.186.211.140.500","C0149556","http://www.wikidata.org/entity/Q1069121","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+448,NULL,"трета камера","third ventricle","","ventriculus tertius","A08.186.211.140.840","C0149555","http://www.wikidata.org/entity/Q662322","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+449,NULL,"амигдалата","amygdala","Amygdaloid","corpus amygdaloideum","A08.186.211.180.090","","http://www.wikidata.org/entity/Q338924","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+450,NULL,"морско конче","hippocampus","","hippocampus","A08.186.211.180.405","","http://www.wikidata.org/entity/Q48360","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+451,NULL,"хипоталамус","hypothalamus","","hypothalamus","A08.186.211.180.497","C0020663","http://www.wikidata.org/entity/Q164386","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+452,NULL,"Септални ядра","Septal nuclei","","nuclei septales","A08.186.211.180.750.800","","http://www.wikidata.org/entity/Q7452044","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+453,NULL,"prosencephalon","prosencephalon","forebrain","prosencephalon","A08.186.211.200","","http://www.wikidata.org/entity/Q507027","2020-05-25 11:04:27","2020-06-05 07:26:48",NULL
+454,NULL,"зрителния нервен тракт","optic  Nerve tract","","tractus opticus","A08.186.211.200.317.689","C0152405","http://www.wikidata.org/entity/Q1079316","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+455,NULL,"чашка","thalamus","Thalamus dorsalis","thalamus","A08.186.211.200.317.826","C0039729","http://www.wikidata.org/entity/Q184215","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+456,NULL,"медиално дорзално ядро","medial dorsal nucleus","mediodorsal thalamic nucleus","nucleus mediodorsalis","A08.186.211.200.317.826.701.490","","http://www.wikidata.org/entity/Q6806039","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+457,NULL,"теленцефалона","telencephalon","endbrain","","A08.186.211.200.885","C0231028","http://www.wikidata.org/entity/Q10937390","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+458,NULL,"базални ганглии","basal ganglia","","nuclei basales","A08.186.211.200.885.287.249","","http://www.wikidata.org/entity/Q464210","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+459,NULL,"claustrum","claustrum","","claustrum","A08.186.211.200.885.287.249.320","","http://www.wikidata.org/entity/Q429036","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+460,NULL,"corpus striatum","corpus striatum","striatum","striatum","A08.186.211.200.885.287.249.487","","http://www.wikidata.org/entity/Q1319792","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+461,NULL,"неостриатум","neostriatum","","","A08.186.211.200.885.287.249.487.550","","http://www.wikidata.org/entity/Q66575248","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+462,NULL,"мозъчната кора","cerebral cortex","","cortex cerebri","A08.186.211.200.885.287.500","","http://www.wikidata.org/entity/Q75839","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+463,NULL,"челен лоб","frontal lobe","","lobus frontalis","A08.186.211.200.885.287.500.270","C0016733","http://www.wikidata.org/entity/Q749520","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+464,NULL,"моторна кора","motor cortex","","","A08.186.211.200.885.287.500.270.548","","http://www.wikidata.org/entity/Q18696","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+465,NULL,"префронтален кортекс","prefrontal cortex","prefrontal association cortex","","A08.186.211.200.885.287.500.270.700","C0162783","http://www.wikidata.org/entity/Q18680","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+466,NULL,"зрителна кора","visual cortex","","","A08.186.211.200.885.287.500.571.735","","http://www.wikidata.org/entity/Q75785","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+467,NULL,"соматосензорна кора","somatosensory cortex","","","A08.186.211.200.885.287.500.670.675","","http://www.wikidata.org/entity/Q64926247","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+468,NULL,"слухов кортекс","auditory cortex","Primary auditory cortex","","A08.186.211.200.885.287.500.814.249","","http://www.wikidata.org/entity/Q18676","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+469,NULL,"темпорален лоб","temporal lobe","","lobus temporalis","A08.186.211.200.885.287.500.863","C0039485","http://www.wikidata.org/entity/Q744385","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+470,NULL,"хороиден сплит","choroid plexus","","plexus choroideus ventriculi quarti","A08.186.211.276.298","","http://www.wikidata.org/entity/Q926250","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+471,NULL,"ependyma","ependyma","","ependyma","A08.186.211.276.460","C0014472","http://www.wikidata.org/entity/Q1134467","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+472,NULL,"странична камера","lateral ventricle","telencephalic ventricle","ventriculus lateralis","A08.186.211.276.650","C0152279","http://www.wikidata.org/entity/Q1929623","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+473,NULL,"septum pellucidum","septum pellucidum","","septum pellucidum","A08.186.211.276.814","","http://www.wikidata.org/entity/Q1514754","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+474,NULL,"epithalamus","epithalamus","","epithalamus","A08.186.211.577.200","C0152361","http://www.wikidata.org/entity/Q849277","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+475,NULL,"цингулатен вирус","cingulate gyrus","CG","gyrus cinguli","A08.186.211.577.330","","http://www.wikidata.org/entity/Q1892702","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+476,NULL,"зъбни винтове","dentate gyrus","","gyrus dentatus","A08.186.211.577.405.200","","http://www.wikidata.org/entity/Q545787","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+477,NULL,"Rhinencephalon","Rhinencephalon","smell-brain","","A08.186.211.577.699","","http://www.wikidata.org/entity/Q1153195","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+478,NULL,"Острови Каледжа","Islands of Calleja","island of Calleja","","A08.186.211.577.699.400","","http://www.wikidata.org/entity/Q2033380","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+479,NULL,"обонятелна крушка","olfactory bulb","","bulbus olfactorius","A08.186.211.577.699.573","","http://www.wikidata.org/entity/Q644945","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+480,NULL,"парахипокампа гирус","parahippocampal gyrus","","gyrus parahippocampalis","A08.186.211.577.710","","http://www.wikidata.org/entity/Q1545429","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+481,NULL,"ентеринална кора","entorhinal cortex","","","A08.186.211.577.710.225","","http://www.wikidata.org/entity/Q2603645","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+482,NULL,"Substantia innominata","Substantia innominata","","substantia innominata","A08.186.211.577.820","","http://www.wikidata.org/entity/Q626274","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+483,NULL,"diencephalon","diencephalon","","diencephalon","A08.186.211.730.385","C0012144","http://www.wikidata.org/entity/Q192419","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+484,NULL,"предно хипоталамично ядро","anterior hypothalamic nucleus","anterior nucleus","nucleus anterior hypothalami","A08.186.211.730.385.357.342.063","","http://www.wikidata.org/entity/Q4771352","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+485,NULL,"преоптична област","preoptic area","preoptic nucleus","area preoptica","A08.186.211.730.385.357.342.450","","http://www.wikidata.org/entity/Q7240592","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+486,NULL,"супрахиазматично ядро","suprachiasmatic nucleus","","nucleus suprachiasmaticus","A08.186.211.730.385.357.342.625","","http://www.wikidata.org/entity/Q1156516","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+487,NULL,"супраоптично ядро","supraoptic nucleus","","nucleus supraopticus","A08.186.211.730.385.357.342.650","","http://www.wikidata.org/entity/Q492272","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+488,NULL,"дорсомедиално хипоталамично ядро","dorsomedial hypothalamic nucleus","dorsomedial nucleus","nucleus dorsomedialis","A08.186.211.730.385.357.352.270","","http://www.wikidata.org/entity/Q5298925","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+489,NULL,"Средна височина","Median eminence","","eminentia mediana","A08.186.211.730.385.357.352.435.249","","http://www.wikidata.org/entity/Q1337712","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+490,NULL,"tuber cinereum","tuber cinereum","tuberal nucleus","tuber cinereum","A08.186.211.730.385.357.352.870","C0041283","http://www.wikidata.org/entity/Q866106","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+491,NULL,"бозайниково тяло","mammillary body","mamillary body","corpus mammillare","A08.186.211.730.385.357.362.500","C0024670","http://www.wikidata.org/entity/Q499802","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+492,NULL,"subthalamus","subthalamus","ventral thalamus","subthalamus","A08.186.211.730.385.800","C0152349","http://www.wikidata.org/entity/Q1066549","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+493,NULL,"субталамично ядро","subthalamic nucleus","nucleus of Luys","nucleus subthalamicus","A08.186.211.730.385.800.800","C0152355","http://www.wikidata.org/entity/Q2270424","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+494,NULL,"списък на таламични ядра","list of thalamic nuclei","","","A08.186.211.730.385.826.701","","http://www.wikidata.org/entity/Q6642944","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+495,NULL,"metathalamus","metathalamus","","metathalamus","A08.186.211.730.385.826.701.444","","http://www.wikidata.org/entity/Q1753418","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+496,NULL,"globus pallidus","globus pallidus","paleostriatum","pallidum","A08.186.211.730.885.105.487.397","","http://www.wikidata.org/entity/Q1759633","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+497,NULL,"каудатно ядро","caudate nucleus","","nucleus caudatus","A08.186.211.730.885.105.487.550.184","","http://www.wikidata.org/entity/Q1132309","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+498,NULL," NAcc\"","nucleus accumbens","\"Nucleus accumbens","","nucleus accumbens","A08.186.211.730.885.105.683","http://www.wikidata.org/entity/Q1476178","2020-05-25 11:04:27","2020-05-25 11:04:27",NULL
+499,NULL,"тилен лоб","occipital lobe","","lobus occipitalis","A08.186.211.730.885.213.571","C0028785","http://www.wikidata.org/entity/Q848340","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+500,NULL,"париетален лоб","parietal lobe","","lobus parietalis","A08.186.211.730.885.213.670","C0030560","http://www.wikidata.org/entity/Q815334","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+501,NULL,"corpus callosum","corpus callosum","callosal commissure","corpus callosum","A08.186.211.730.885.362","C0010090","http://www.wikidata.org/entity/Q223851","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+502,NULL,"Диагонална лента на Broca","Diagonal band of Broca","","stria diagonalis","A08.186.211.730.885.380","","http://www.wikidata.org/entity/Q5270363","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+503,NULL,"мозъчните обвивки","meninges","meningeal","meninges","A08.186.566","","http://www.wikidata.org/entity/Q268930","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+504,NULL,"арахноидна матка","arachnoid mater","","arachnoidea mater","A08.186.566.166","","http://www.wikidata.org/entity/Q1647112","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+505,NULL,"субарахноидно пространство","subarachnoid space","subarachnoid cavity","spatium subarachnoideum","A08.186.566.166.686","C0038527","http://www.wikidata.org/entity/Q2361541","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+506,NULL,"Cisterna magna","Cisterna magna","","cisterna cerebellomedullaris posterior","A08.186.566.166.686.351","","http://www.wikidata.org/entity/Q5122306","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+507,NULL,"дюра матер","dura mater","","dura mater","A08.186.566.395","","http://www.wikidata.org/entity/Q1394389","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+508,NULL,"Pia mater","Pia mater","","pia mater","A08.186.566.731","","http://www.wikidata.org/entity/Q1647118","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+509,NULL,"гръбначен мозък","spinal cord","","medulla spinalis","A08.186.854","C0037925","http://www.wikidata.org/entity/Q9606","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+510,NULL,"пирамидални тракти","pyramidal tracts","corticospinal and corticobulbar tracts","tractus pyramidalis","A08.186.854.300","","http://www.wikidata.org/entity/Q968731","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+511,NULL,"Substantia желатиноза на Rolando","Substantia gelatinosa of Rolando","","substantia gelatinosa","A08.186.854.697.500.500","","http://www.wikidata.org/entity/Q17137094","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+512,NULL,"Симпатичен ганглий","Sympathetic ganglion","","ganglion sympathicum","A08.340.315.350","","http://www.wikidata.org/entity/Q3554908","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+513,NULL,"Звезден ганглий","Stellate ganglion","","ganglion cervicothoracicum","A08.340.315.350.800","","http://www.wikidata.org/entity/Q1493503","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+514,NULL,"Превъзходен шиен ганглий","Superior cervical ganglion","","ganglion cervicale superius","A08.340.315.350.850","","http://www.wikidata.org/entity/Q1493493","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+515,NULL,"дорзален корен ганглий","dorsal root ganglion","","ganglion sensorium nervi spinalis","A08.340.390.340","","http://www.wikidata.org/entity/Q1395415","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+516,NULL,"долен ганглий на вагусния нерв","inferior ganglion of vagus nerve","","ganglion inferius","A08.340.390.550","","http://www.wikidata.org/entity/Q6029330","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+517,NULL,"спирален ганглий","spiral ganglion","cochlear ganglion","ganglion spirale cochleae","A08.340.390.800","","http://www.wikidata.org/entity/Q3095145","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+518,NULL,"тригеминален ганглий","trigeminal ganglion","gasserian ganglion","ganglion trigeminale","A08.340.390.850","","http://www.wikidata.org/entity/Q776972","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+519,NULL,"нервна мрежа","nerve net","","","A08.511","","http://www.wikidata.org/entity/Q1762173","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+520,NULL,"Neurolemma","Neurolemma","sheath of Schwann","","A08.561.600","","http://www.wikidata.org/entity/Q3184389","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+521,NULL,"неврален път","neural pathway","neural pathways","","A08.612","","http://www.wikidata.org/entity/Q2472302","2020-05-25 11:04:27","2020-06-05 07:26:49",NULL
+522,NULL,"аферентни пътища","afferent pathways","Afferent Pathway","","A08.612.220","","http://www.wikidata.org/entity/Q68015866","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+523,NULL,"слухов път","auditory pathway","Auditory Pathways","","A08.612.220.110","","http://www.wikidata.org/entity/Q70182286","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+524,NULL,"визуални пътища","visual pathways","Visual Pathway","","A08.612.220.860","","http://www.wikidata.org/entity/Q68015725","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+525,NULL,"еферентна пътека","efferent pathway","efferent pathways","","A08.612.380","","http://www.wikidata.org/entity/Q59627423","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+526,NULL,"glia do anjo picoo","glia do anjo picoo","neuroglial cell","neuroglia","A08.637","C0027836","http://www.wikidata.org/entity/Q177105","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+527,NULL,"астроцитите","astrocyte","astroglia","","A08.637.200","C0004112","http://www.wikidata.org/entity/Q502961","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+528,NULL,"епендимоглиални клетки","ependymoglial cells","Ependymoglial Cell","","A08.637.300","","http://www.wikidata.org/entity/Q70203947","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+529,NULL,"микроглиа","microglia","microgliocyte","","A08.637.400","C0206116","http://www.wikidata.org/entity/Q1622829","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+530,NULL,"олигоендроцит","oligodendrocyte","oligodendroglia","","A08.637.600","C0028944","http://www.wikidata.org/entity/Q916698","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+531,NULL,"Нервна клетка","neuron","neurons","neuron","A08.675","C0027882","http://www.wikidata.org/entity/Q43054","2020-05-25 11:04:28","2020-05-25 11:04:28",NULL
+532,NULL,"адренергични неврони","adrenergic neurons","Adrenergic Neuron","","A08.675.100","","http://www.wikidata.org/entity/Q71262051","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+533,NULL,"адренергични нервни влакна","adrenergic nerve fibre","adrenergic nerve fibres","","A08.675.100.500","","http://www.wikidata.org/entity/Q4684746","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+534,NULL,"холинергични неврони","cholinergic neurons","cholinergic neuron","","A08.675.127","","http://www.wikidata.org/entity/Q12167532","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+535,NULL,"допаминергична клетъчна група","dopaminergic cell group","Dopaminergic Neurons","","A08.675.278","","http://www.wikidata.org/entity/Q5297290","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+536,NULL,"interneuron","interneuron","interneurons","","A08.675.358","C0021792","http://www.wikidata.org/entity/Q1500732","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+537,NULL,"ретината биполярни клетки","retina bipolar cells","retinal bipolar cells","","A08.675.358.700","","http://www.wikidata.org/entity/Q864951","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+538,NULL,"невроепителиална клетка","neuroepithelial cell","neuroepithelial cells","","A08.675.650.915.500.530","","http://www.wikidata.org/entity/Q13652744","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+539,NULL,"Аортно тяло","Aortic body","","","A08.675.650.915.500.600.050","","http://www.wikidata.org/entity/Q4778753","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+540,NULL,"тактилен корпускул","tactile corpuscle","corpuscle of Meissner","","A08.675.650.915.750","","http://www.wikidata.org/entity/Q1755764","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+541,NULL,"Ламеларен корпускул","Lamellar corpuscle","Pacinian corpuscle","","A08.675.650.915.750.700","","http://www.wikidata.org/entity/Q673321","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+542,NULL,"барорецепторни","Baroreceptor","Pressoreceptors","","A08.675.650.915.750.750","","http://www.wikidata.org/entity/Q808732","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+543,NULL,"гама моторен неврон","gamma motor neuron","γ motor neurons","","A08.675.655.500.525","","http://www.wikidata.org/entity/Q3866857","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+544,NULL,"Тяло на Nissl","Nissl body","Nissl bodies","","A08.675.712","","http://www.wikidata.org/entity/Q911877","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+545,NULL,"пирамидална клетка","pyramidal cell","pyramidal cells","","A08.675.790","","http://www.wikidata.org/entity/Q2116409","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+546,NULL,"Поставете клетка","Place cell","","","A08.675.790.500","","http://www.wikidata.org/entity/Q2303730","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+547,NULL,"субфоничен орган","subfornical organ","","organum subfornicale","A08.713.840","","http://www.wikidata.org/entity/Q2030058","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+548,NULL,"Celiac плексус","Celiac plexus","Solar plexus","plexus coeliacus","A08.800.050.050.150","","http://www.wikidata.org/entity/Q612258","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+549,NULL,"лицев нерв","facial nerve","nervus facialis","nervus facialis","A08.800.050.050.275","","http://www.wikidata.org/entity/Q242160","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+550,NULL,"Превъзходен хипогастрален плексус","Superior hypogastric plexus","","plexus hypogastricus superior","A08.800.050.050.400","","http://www.wikidata.org/entity/Q952595","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+551,NULL,"Миентеричен сплит","Myenteric plexus","Auerbach's plexus","plexus myentericus","A08.800.050.050.500","","http://www.wikidata.org/entity/Q1890233","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+552,NULL,"сплетни нерви","splanchnic nerves","","","A08.800.050.050.800","","http://www.wikidata.org/entity/Q2795262","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+553,NULL,"Плексусът на Майснер","Meissner's plexus","Submucous plexus","plexus submucosus","A08.800.050.050.850","","http://www.wikidata.org/entity/Q739865","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+554,NULL,"вагус нерв","vagus nerve","pneumogastric nerve","nervus vagus","A08.800.050.050.925","","http://www.wikidata.org/entity/Q190140","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+555,NULL,"ентерична нервна система","enteric nervous system","","","A08.800.050.150","","http://www.wikidata.org/entity/Q586582","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+556,NULL,"периферен нерв","peripheral nerve","peripheral nerve tree","","A08.800.800","C0031119","http://www.wikidata.org/entity/Q11519747","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+557,NULL,"абдуценс нерв","abducens nerve","nervus abducens","nervus abducens","A08.800.800.120.030","","http://www.wikidata.org/entity/Q318773","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+558,NULL,"Спомагателен нерв","Accessory nerve","Eleventh cranial nerve","nervus accessorius","A08.800.800.120.060","","http://www.wikidata.org/entity/Q271987","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+559,NULL,"чорда тимпани","chorda tympani","","chorda tympani","A08.800.800.120.250.120","","http://www.wikidata.org/entity/Q1076379","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+560,NULL,"глософарингеален нерв","glossopharyngeal nerve","CN IX","nervus glossopharyngeus","A08.800.800.120.290","","http://www.wikidata.org/entity/Q334143","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+561,NULL,"хипоглосален нерв","hypoglossal nerve","","nervus hypoglossus","A08.800.800.120.330","","http://www.wikidata.org/entity/Q319577","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+562,NULL,"околомоторен нерв","oculomotor nerve","nervus oculomotorius","nervus oculomotorius","A08.800.800.120.600","","http://www.wikidata.org/entity/Q223903","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+563,NULL,"Nervus olfactorius","olfactory nerve","nervus olfactorius","nervus olfactorius","A08.800.800.120.640","","http://www.wikidata.org/entity/Q209704","2020-05-25 11:04:28","2020-05-25 11:04:28",NULL
+564,NULL,"оптичен нерв","optic nerve","nervus opticus","nervus opticus","A08.800.800.120.680","","http://www.wikidata.org/entity/Q186029","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+565,NULL,"оптичен хиазъм","optic chiasm","optic chiasma","chiasma opticum","A08.800.800.120.680.600","C0029126","http://www.wikidata.org/entity/Q1071710","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+566,NULL,"оптичен диск","optic disc","optic disk","discus nervi optici","A08.800.800.120.680.660","C0029127","http://www.wikidata.org/entity/Q16873995","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+567,NULL,"тригеминалния нерв","trigeminal nerve","nervus trigeminus","nervus trigeminus","A08.800.800.120.760","C0040996","http://www.wikidata.org/entity/Q189763","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+568,NULL,"мандибуларен нерв","mandibular nerve","inferior maxillary nerve","nervus mandibularis","A08.800.800.120.760.500","C0024695","http://www.wikidata.org/entity/Q385981","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+569,NULL,"езиков нерв","lingual nerve","","nervus lingualis","A08.800.800.120.760.500.450","C0023740","http://www.wikidata.org/entity/Q1817831","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+570,NULL,"максиларен нерв","maxillary nerve","superior maxillary nerve","nervus maxillaris","A08.800.800.120.760.550","C0024955","http://www.wikidata.org/entity/Q1897537","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+571,NULL,"офталмологичен нерв","ophthalmic nerve","cranial nerve V1","nervus ophthalmicus","A08.800.800.120.760.650","C0029082","http://www.wikidata.org/entity/Q1420571","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+572,NULL,"трохлеарния нерв","trochlear nerve","nervus trochlearis","nervus trochlearis","A08.800.800.120.800","","http://www.wikidata.org/entity/Q319584","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+573,NULL,"вестибулокохлеарния нерв","vestibulocochlear nerve","auditory vestibular nerve","nervus vestibulocochlearis","A08.800.800.120.910","","http://www.wikidata.org/entity/Q319317","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+574,NULL,"кохлеарния нерв","cochlear nerve","auditory nerve","nervus cochlearis","A08.800.800.120.910.120","C0009201","http://www.wikidata.org/entity/Q2519137","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+575,NULL,"вестибуларен нерв","vestibular nerve","","nervus vestibularis","A08.800.800.120.910.900","C0042598","http://www.wikidata.org/entity/Q2146063","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+576,NULL,"гръбначен нерв","spinal nerve","","n. spinalis","A08.800.800.720","C0037941","http://www.wikidata.org/entity/Q937076","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+577,NULL,"брахиалния плексус","brachial plexus","brachial nerve plexus","plexus brachialis","A08.800.800.720.050","","http://www.wikidata.org/entity/Q846961","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+578,NULL,"радиален нерв","radial nerve","","n. radialis","A08.800.800.720.050.700","","http://www.wikidata.org/entity/Q1365325","2020-05-25 11:04:28","2020-06-05 07:26:49",NULL
+579,NULL,"улнар нерв","ulnar nerve","funny bone","n. ulnaris","A08.800.800.720.050.850","","http://www.wikidata.org/entity/Q254580","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+580,NULL,"цервикален сплит","cervical plexus","","plexus cervicalis","A08.800.800.720.150","","http://www.wikidata.org/entity/Q921815","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+581,NULL,"Лумбосакрален плексус","Lumbosacral plexus","","plexus lumbosacralis","A08.800.800.720.450","","http://www.wikidata.org/entity/Q13566427","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+582,NULL,"бедрен нерв","femoral nerve","","n. femoralis","A08.800.800.720.450.250","","http://www.wikidata.org/entity/Q545676","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+583,NULL,"тибиален нерв","tibial nerve","","n. tibialis","A08.800.800.720.450.760.820","","http://www.wikidata.org/entity/Q1978198","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+584,NULL," short saphenous nerve\"","Sural nerve","\"Sural nerve","","n. suralis","A08.800.800.720.450.760.820.820","http://www.wikidata.org/entity/Q6135922","2020-05-25 11:04:28","2020-05-25 11:04:28",NULL
+585,NULL,"Преден корен на гръбначния нерв","Anterior root of spinal nerve","Ventral root","radix motoria","A08.800.800.720.725","","http://www.wikidata.org/entity/Q869311","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+586,NULL,"Заден корен на гръбначния нерв","Posterior root of spinal nerve","dorsal root of spinal nerve","radix sensoria","A08.800.800.720.725","","http://www.wikidata.org/entity/Q869318","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+587,NULL,"Cauda equina","Cauda equina","","cauda equina","A08.800.800.720.725.150","","http://www.wikidata.org/entity/Q1051445","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+588,NULL,"набор от интеркостални нерви","set of intercostal nerves","intercostal nerves","rami ventrales","A08.800.800.720.800.350","","http://www.wikidata.org/entity/Q1515961","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+589,NULL,"Синапси","synapse","GO:0045202","synapsis","A08.850","","http://www.wikidata.org/entity/Q187181","2020-05-25 11:04:28","2020-05-25 11:04:28",NULL
+590,NULL,"сензорна система","sensory system","Sense organs","organa sensuum","A09","","http://www.wikidata.org/entity/Q11101","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+591,NULL,"външно ухо","outer ear","external ear","auris externa","A09.246.272","C0013453","http://www.wikidata.org/entity/Q609753","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+592,NULL,"Ушния канал","ear canal","external auditory meatus","meatus acusticus externus","A09.246.272.396","","http://www.wikidata.org/entity/Q258328","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+593,9,"тъпанче","eardrum",NULL,"membrana tympanica","A09.246.272.702",NULL,"http://www.wikidata.org/entity/Q173801","2020-05-25 11:04:28","2020-05-25 11:43:24",NULL
+594,NULL,"орган на отолита","otolith organ","utricle and saccule","","A09.246.300.909.625","C0036030","http://www.wikidata.org/entity/Q29654295","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+595,NULL,"отолитна мембрана","otolithic membrane","","membrana statoconiorum","A09.246.300.909.625.125.680","C0029893","http://www.wikidata.org/entity/Q7108965","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+596,NULL,"ендолимфатичен сак","endolymphatic sac","","saccus endolymphaticus","A09.246.300.909.957.360.701","C0014168","http://www.wikidata.org/entity/Q5376355","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+597,NULL,"средно ухо","middle ear","","auris media","A09.246.397","C0013455","http://www.wikidata.org/entity/Q501553","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+598,NULL,"слухова кост","auditory ossicle","ossicle","ossicula auditus","A09.246.397.247","C0013450","http://www.wikidata.org/entity/Q816052","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+599,NULL,"наковалня","incus","incus bone","incus","A09.246.397.247.362","C0021181","http://www.wikidata.org/entity/Q497385","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+600,NULL,"чукче","malleus","malleus bone","malleus","A09.246.397.247.524","C0024631","http://www.wikidata.org/entity/Q319636","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+601,NULL,"стреме","stapes","stapes bone","stapes","A09.246.397.247.806","C0038152","http://www.wikidata.org/entity/Q499897","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+602,NULL,"евстахиева тръба","Eustachian tube","pharyngotympanic tube","tuba auditoria","A09.246.397.369","C0015183","http://www.wikidata.org/entity/Q320561","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+603,NULL,"вътрешно ухо","inner ear","internal ear","auris interna","A09.246.631","C0022889","http://www.wikidata.org/entity/Q212344","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+604,NULL,"охлюв","cochlea","","cochlea","A09.246.631.246","C0009195","http://www.wikidata.org/entity/Q317857","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+605,NULL,"базиларна мембрана","basilar membrane","","","A09.246.631.246.125","","http://www.wikidata.org/entity/Q3503790","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+606,NULL,"кохлеарен канал","cochlear duct","scala media","ductus cochlearis","A09.246.631.246.292","C1323110","http://www.wikidata.org/entity/Q843875","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+607,NULL,"stria vascularis","stria vascularis","stria vascularis of cochlear duct","stria vascularis","A09.246.631.246.292.876","C0038445","http://www.wikidata.org/entity/Q1618109","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+608,NULL,"текторна мембрана","tectorial membrane","tectorial membrane of cochlea","membrana tectoria","A09.246.631.246.292.906","C0039432","http://www.wikidata.org/entity/Q741774","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+609,NULL,"орган на Корти","organ of Corti","spiral organ of Corti","organum spirale","A09.246.631.246.577","C0029207","http://www.wikidata.org/entity/Q1128309","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+610,NULL,"кръгъл прозорец","round window","cochlear window","fenestra cochleae","A09.246.631.246.814","","http://www.wikidata.org/entity/Q263574","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+611,NULL,"тимпаничен канал","tympanic duct","scala tympani","scala vestibuli","A09.246.631.246.848","","http://www.wikidata.org/entity/Q3393910","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+612,NULL,"Осева спирална ламина","Osseous spiral lamina","","lamina spiralis ossea","A09.246.631.246.930","","http://www.wikidata.org/entity/Q7107435","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+613,NULL,"полукръгъл канал","semicircular canal","semicircular duct","canales semicirculares","A09.246.631.663","C0036622","http://www.wikidata.org/entity/Q1064403","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+614,NULL,"овален прозорец","oval window","vestibular window","fenestra vestibuli","A09.246.631.909.551","","http://www.wikidata.org/entity/Q2301793","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+615,NULL,"вестибуларен акведукт","vestibular aqueduct","","aqueductus vestibuli","A09.246.631.909.957","C0042593","http://www.wikidata.org/entity/Q7923449","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+616,NULL,"конюктива","conjunctiva","","tunica conjunctiva","A09.371.060.200","C0009758","http://www.wikidata.org/entity/Q273554","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+617,NULL,"Корнеа","cornea","","cornea","A09.371.060.217","C0010031","http://www.wikidata.org/entity/Q168291","2020-05-25 11:04:28","2020-05-25 11:04:28",NULL
+618,NULL,"Мембраната на Боуман","Bowman's membrane","Bowman's layer","lamina limitans anterior","A09.371.060.217.113","C0229127","http://www.wikidata.org/entity/Q2290527","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+619,NULL,"роговичен епител","corneal epithelium","anterior corneal epithelium","epithelium anterius","A09.371.060.217.325","C0459875","http://www.wikidata.org/entity/Q2040445","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+620,NULL,"трабекуларна мрежа","trabecular meshwork","","","A09.371.060.932","","http://www.wikidata.org/entity/Q750873","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+621,NULL,"Мейбомиева жлеза","Meibomian gland","tarsal glands","glandulae tarsales","A09.371.337.614","","http://www.wikidata.org/entity/Q1425513","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+622,NULL,"слъзния апарат","lacrimal apparatus","","apparatus lacrimalis","A09.371.463","","http://www.wikidata.org/entity/Q573181","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+623,NULL,"назолакримален канал","nasolacrimal duct","tear duct","ductus nasolacrimalis","A09.371.463.640","","http://www.wikidata.org/entity/Q526920","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+624,NULL,"ретиналния пигментен епител","retinal pigment epithelium","","stratum pigmentosum","A09.371.670.500","","http://www.wikidata.org/entity/Q2346242","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+625,NULL,"ретина","retina","","retina","A09.371.729","C0035298","http://www.wikidata.org/entity/Q169342","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+626,NULL,"разширяване на зениците","fundus","Fundus Oculi","","A09.371.729.313","","http://www.wikidata.org/entity/Q203222","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+627,NULL,"макула на ретината","macula of retina","yellow spot","macula lutea","A09.371.729.522","","http://www.wikidata.org/entity/Q747023","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+628,NULL,"склерата","sclera","","sclera","A09.371.784","C0036410","http://www.wikidata.org/entity/Q193107","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+629,NULL,"увеята","uvea","vascular tunic","tunica vasculosa bulbi","A09.371.894","C0042160","http://www.wikidata.org/entity/Q278859","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+630,NULL,"хороидеа","choroid","optic choroid","choroidea","A09.371.894.223","C0008520","http://www.wikidata.org/entity/Q271762","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+631,NULL,"Мембраната на Брух","Bruch's membrane","Bruch membrane","","A09.371.894.223.250","","http://www.wikidata.org/entity/Q991899","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+632,NULL,"цилиарно тяло","ciliary body","","corpus ciliare","A09.371.894.280","C0008779","http://www.wikidata.org/entity/Q1048080","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+633,NULL,"Ирис","iris","","irisרומי","A09.371.894.513","C0022077","http://www.wikidata.org/entity/Q178748","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+634,NULL,"тъкан","tissue","tissues","","A10","","http://www.wikidata.org/entity/Q40397","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+635,NULL,"Отделения за течности","Fluid compartments","Body Fluid Compartments","","A10.082","","http://www.wikidata.org/entity/Q1259242","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+636,NULL,"съединителната тъкан","connective tissue","","","A10.165","","http://www.wikidata.org/entity/Q25615","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+637,NULL,"мастна тъкан","adipose tissue","body fat","","A10.165.114","","http://www.wikidata.org/entity/Q193583","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+638,NULL,"отменена кост","cancellous bone","trabecular bone","substantia trabecularis","A10.165.265.414","C0222660","http://www.wikidata.org/entity/Q1759640","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+639,NULL,"Интеросеозна мембрана","Interosseous membrane","","membrana interossea","A10.165.560","","http://www.wikidata.org/entity/Q1407120","2020-05-25 11:04:28","2020-06-05 07:26:50",NULL
+640,NULL,"Хиподерма","subcutaneous tissue","superficial fascia","tela subcutanea","A10.165.887","","http://www.wikidata.org/entity/Q1164665","2020-05-25 11:04:28","2020-05-25 11:04:28",NULL
+641,NULL,"Epithelium","epithelium","epithelial tissue is a tissue used in human","","A10.272","C0014609","http://www.wikidata.org/entity/Q41301","2020-05-25 11:04:28","2020-05-25 11:04:28",NULL
+642,NULL,"базална мембрана","basement membrane","GO:0005604","","A10.272.220","","http://www.wikidata.org/entity/Q32846","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+643,NULL,"епидермис","epidermis","outermost skin cells","epidermis","A10.272.497","","http://www.wikidata.org/entity/Q212743","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+644,NULL,"космен фоликул","hair follicle","hair follicles","folliculus pili","A10.272.497.500","","http://www.wikidata.org/entity/Q866324","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+645,NULL,"уротелиумна","urothelium","","","A10.272.850","","http://www.wikidata.org/entity/Q11878994","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+646,NULL,"мастни жлези","sebaceous gland","oil gland","glandula sebacea","A10.336.827","","http://www.wikidata.org/entity/Q212328","2020-05-25 11:04:29","2020-05-25 11:04:29",NULL
+647,NULL,"Потни жлези","sweat gland","","glandula sudorifera","A10.336.899","","http://www.wikidata.org/entity/Q243784","2020-05-25 11:04:29","2020-05-25 11:04:29",NULL
+648,NULL,"апокринна потна жлеза","apocrine sweat gland","Apocrine gland","","A10.336.899.206","","http://www.wikidata.org/entity/Q685802","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+649,NULL,"екрина потни жлези","eccrine sweat gland","","","A10.336.899.480","","http://www.wikidata.org/entity/Q1639831","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+650,NULL,"лимфна тъкан","lymphatic tissue","lymphoid tissue","","A10.549","","http://www.wikidata.org/entity/Q3529455","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+651,NULL,"аденоиден","adenoid","pharyngeal tonsil","tonsilla pharyngealis","A10.549.100","","http://www.wikidata.org/entity/Q552087","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+652,NULL,"лимфен възел","lymph node","Trabeculae of lymph node","nodus lymphoideus","A10.549.400","","http://www.wikidata.org/entity/Q170758","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+653,NULL,"Кръпката на Пейър","Peyer's patch","Peyer's patches","noduli lymphoidei aggregati","A10.549.600","","http://www.wikidata.org/entity/Q599966","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+654,NULL,"далак","spleen","","splen","A10.549.700","","http://www.wikidata.org/entity/Q9371","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+655,NULL,"Тимусна жлеза","thymus","thymus gland","thymus","A10.549.750","","http://www.wikidata.org/entity/Q163987","2020-05-25 11:04:29","2020-05-25 11:04:29",NULL
+656,NULL,"Екстраембрионална мембрана","Extraembryonic membrane","","","A10.615.284","","http://www.wikidata.org/entity/Q30674142","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+657,NULL,"алантоиса","allantois","","","A10.615.284.147","","http://www.wikidata.org/entity/Q1364012","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+658,NULL,"амнион","amnion","","","A10.615.284.277","","http://www.wikidata.org/entity/Q473749","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+659,NULL,"залепващи","chorion","","","A10.615.284.473","","http://www.wikidata.org/entity/Q1076491","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+660,NULL,"жълтъчен сак","yolk sac","","","A10.615.284.981","","http://www.wikidata.org/entity/Q369887","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+661,NULL,"устна лигавица","oral mucosa","mucosa of mouth","","A10.615.550.599","","http://www.wikidata.org/entity/Q1776131","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+662,NULL,"серозна мембрана","serous membrane","serosa","","A10.615.789","","http://www.wikidata.org/entity/Q1364005","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+663,10,"скелетни мускулни влакна","skeletal muscle fiber proper",NULL,NULL,"A10.690.552.500.500",NULL,"http://www.wikidata.org/entity/Q66589779","2020-05-25 11:04:29","2020-05-25 11:47:46",NULL
+664,NULL,"myofibril","myofibril","myofibrils","","A10.690.552.875","","http://www.wikidata.org/entity/Q318623","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+665,NULL,"нервна тъкан","nervous tissue","nerve tissue","","A10.755","","http://www.wikidata.org/entity/Q203850","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+666,NULL,"органоидното","organoid","","","A10.802","","http://www.wikidata.org/entity/Q11293125","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+667,NULL,"паренхим","parenchyma","parenchymal tissues","","A10.806","","http://www.wikidata.org/entity/Q270524","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+668,NULL,"Хирургически марж","Surgical margin","Resection margin","","A10.830","","http://www.wikidata.org/entity/Q7646216","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+669,NULL,"Скелетна мускулна камера","Skeletal Muscle Ventricle","","","A10.850.700","","http://www.wikidata.org/entity/Q70092724","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+670,NULL,"хирургичен клап","surgical flap","Surgical Flaps","","A10.850.710","","http://www.wikidata.org/entity/Q3216616","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+671,NULL,"клетка","cell","GO:0005623","","A11","","http://www.wikidata.org/entity/Q7868","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+672,NULL,"В клетка","B-cells","B-cell","","A11.063.438","","http://www.wikidata.org/entity/Q188930","2020-05-25 11:04:29","2020-05-25 11:04:29",NULL
+673,NULL,"дендритна клетка","dendritic cell","dendritic cells","","A11.066.270","","http://www.wikidata.org/entity/Q506253","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+674,NULL,"Тромбоцити","platelets","thrombocytes","","A11.118.188","","http://www.wikidata.org/entity/Q101026","2020-05-25 11:04:29","2020-05-25 11:04:29",NULL
+675,NULL,"Еритроцити","red blood cell","Red blood corpuscles","Erythrocytus","A11.118.290","","http://www.wikidata.org/entity/Q37187","2020-05-25 11:04:29","2020-05-25 11:04:29",NULL
+676,NULL,"Бели кръвни клетки","white blood cell","leukocytes","","A11.118.637","C0023516","http://www.wikidata.org/entity/Q42395","2020-05-25 11:04:29","2020-05-25 11:04:29",NULL
+677,NULL,"Неутрофил","neutrophil","neutrophils","","A11.118.637.415.583","","http://www.wikidata.org/entity/Q188417","2020-05-25 11:04:29","2020-05-25 11:04:29",NULL
+678,NULL,"лимфоцитите","lymphocyte","lymphocytes","","A11.118.637.555.567","","http://www.wikidata.org/entity/Q715347","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+679,NULL,"естествена клетка убиец","natural killer cell","NK cell","","A11.118.637.555.567.537","","http://www.wikidata.org/entity/Q332181","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+680,NULL,"подмножества на лимфоцитите","lymphocyte subsets","lymphocyte subset","","A11.118.637.555.567.550","","http://www.wikidata.org/entity/Q66004891","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+681,NULL,"Т-лимфоцитни подмножества","T-lymphocyte subsets","T-lymphocyte subset","","A11.118.637.555.567.550.500","","http://www.wikidata.org/entity/Q65968717","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+682,NULL,"Инвариантна Т-клетка, свързана с лигавиците","Mucosal associated invariant T cell","MAIT cells","","A11.118.637.555.567.550.500.100","","http://www.wikidata.org/entity/Q6931258","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+683,11,"помощни индуциращи Т-лимфоцити","helper-inducer T-lymphocytes",NULL,NULL,"A11.118.637.555.567.550.500.400",NULL,"http://www.wikidata.org/entity/Q65983548","2020-05-25 11:04:29","2020-05-25 11:48:56",NULL
+684,NULL,"Th1 клетки","Th1 cells","Th1 Cell","","A11.118.637.555.567.550.500.400.900","","http://www.wikidata.org/entity/Q11250619","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+685,NULL,"Th2 клетки","Th2 cells","Th2 cell","","A11.118.637.555.567.550.500.400.905","","http://www.wikidata.org/entity/Q67101694","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+686,NULL,"Т клетка","T-lymphocytes","t lymphocyte","","A11.118.637.555.567.569","","http://www.wikidata.org/entity/Q193529","2020-05-25 11:04:29","2020-05-25 11:04:29",NULL
+687,NULL,"Т помощна клетка","T helper cell","Th2 Cell","","A11.118.637.555.567.569.200","","http://www.wikidata.org/entity/Q632518","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+688,NULL,"инфилтриращи тумори лимфоцити","tumor infiltrating lymphocytes","tumor infiltrating lymphocyte","","A11.118.637.555.567.650","","http://www.wikidata.org/entity/Q7852668","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+689,NULL,"моноцитен","Monocyte","monocytes","","A11.118.637.555.652","","http://www.wikidata.org/entity/Q107244","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+690,NULL,"клетки от костен мозък","bone marrow cells","bone marrow cell","","A11.148","","http://www.wikidata.org/entity/Q66004840","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+691,NULL,"ендотелни прогениторни клетки","endothelial progenitor cells","endothelial progenitor cell","","A11.148.174","","http://www.wikidata.org/entity/Q1340830","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+692,NULL,"миелоидна прогенитарна клетка","myeloid progenitor cell","","","A11.148.378.590","C0596993","http://www.wikidata.org/entity/Q2944073","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+693,NULL,"Мегакариоцит-еритроидна прогенитарна клетка","Megakaryocyte-erythroid progenitor cell","Megakaryocyte–erythroid progenitor cell","","A11.148.378.590.837","","http://www.wikidata.org/entity/Q12210741","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+694,NULL,"3T3 клетки","3T3 cells","3T3 cell lines","","A11.251.210.100","","http://www.wikidata.org/entity/Q68153243","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+695,NULL,"NIH 3T3","NIH 3T3","Swiss3T3","","A11.251.210.100.550","","http://www.wikidata.org/entity/Q4636420","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+696,NULL,"COS клетъчни линии","COS cell lines","COS cells","","A11.251.210.172.500","","http://www.wikidata.org/entity/Q5013524","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+697,NULL,"ракова клетъчна линия","cancer cell line","tumor cell line","","A11.251.210.190","","http://www.wikidata.org/entity/Q23058136","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+698,NULL,"HeLa","HeLa","Henrietta Lacks cells","","A11.251.210.190.400","","http://www.wikidata.org/entity/Q847482","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+699,NULL,"СНО","CHO","CHO-ori","","A11.251.210.200","","http://www.wikidata.org/entity/Q56646","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+700,NULL,"Vero","Vero","Vero cells","","A11.251.210.955","","http://www.wikidata.org/entity/Q3066564","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+701,NULL,"клонинг","clone","clone cells","","A11.251.353","","http://www.wikidata.org/entity/Q3308178","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+702,NULL,"хибридомна","hybridoma","hybridomas","","A11.251.353.485","","http://www.wikidata.org/entity/Q27554370","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+703,NULL,"обездвижени клетки","immobilized cells","immobilized whole cell","","A11.270","","http://www.wikidata.org/entity/Q12202106","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+704,NULL,"клетъчен компонент","cellular component","subcellular entity","","A11.284","","http://www.wikidata.org/entity/Q5058355","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+705,NULL,"клетъчната мембрана","cell membrane","plasmalemma","","A11.284.149","","http://www.wikidata.org/entity/Q29548","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+706,NULL,"бактериална външна мембрана","bacterial outer membrane","","","A11.284.149.083","","http://www.wikidata.org/entity/Q258248","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+707,NULL,"hemidesmosome","hemidesmosome","hemidesmosome","","A11.284.149.165.165.360","","http://www.wikidata.org/entity/Q1604780","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+708,NULL,"разклонителен възел","gap junction","zonula communicans","","A11.284.149.165.420.471","","http://www.wikidata.org/entity/Q232438","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+709,NULL,"имунологичен синапс","immunological synapse","supramolecular activation cluster","","A11.284.149.165.420.548","","http://www.wikidata.org/entity/Q126223","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+710,NULL,"плътно кръстовище","tight junction","tight junctions","","A11.284.149.165.420.820","","http://www.wikidata.org/entity/Q1053832","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+711,NULL,"мембранен микродомен","membrane microdomain","GO:0098857","","A11.284.149.165.570","","http://www.wikidata.org/entity/Q22327677","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+712,NULL,"фикобилизома","phycobilisome","Phycobilisome","","A11.284.149.165.695","","http://www.wikidata.org/entity/Q22327713","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+713,11,"фимбрия","fimbria",NULL,NULL,"A11.284.180.285",NULL,"http://www.wikidata.org/entity/Q1810775","2020-05-25 11:04:29","2020-05-25 11:51:33",NULL
+714,NULL,"микровласинките","microvilli","microvillus","","A11.284.180.565","","http://www.wikidata.org/entity/Q939486","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+715,NULL,"стереоцилии","stereocilia","Stereovilli","","A11.284.180.800","","http://www.wikidata.org/entity/Q32843","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+716,NULL,"човешки хромозоми","human chromosomes","human chromosome","","A11.284.187.520.300","","http://www.wikidata.org/entity/Q21169665","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+717,NULL,"човешка хромозома 1","human chromosome 1","Homo sapiens chromosome 1","","A11.284.187.520.300.235.240","","http://www.wikidata.org/entity/Q430258","2020-05-25 11:04:29","2020-06-05 07:26:50",NULL
+718,NULL,"човешка хромозома 2","human chromosome 2","Homo sapiens chromosome 2","","A11.284.187.520.300.235.245","","http://www.wikidata.org/entity/Q638893","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+719,NULL,"човешка хромозома 3","human chromosome 3","Homo sapiens chromosome 3","","A11.284.187.520.300.235.250","","http://www.wikidata.org/entity/Q668633","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+720,NULL,"човешка хромозома 4","human chromosome 4","Homo sapiens chromosome 4","","A11.284.187.520.300.280.285","","http://www.wikidata.org/entity/Q836605","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+721,NULL,"човешка хромозома 5","human chromosome 5","Homo sapiens chromosome 5","","A11.284.187.520.300.280.290","","http://www.wikidata.org/entity/Q840741","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+722,NULL,"човешка хромозома 6","human chromosome 6","Homo sapiens chromosome 6","","A11.284.187.520.300.325.330","","http://www.wikidata.org/entity/Q540857","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+723,NULL,"човешка хромозома 7","human chromosome 7","Homo sapiens chromosome 7","","A11.284.187.520.300.325.335","","http://www.wikidata.org/entity/Q657319","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+724,NULL,"човешка хромозома 8","human chromosome 8","Homo sapiens chromosome 8","","A11.284.187.520.300.325.340","","http://www.wikidata.org/entity/Q572848","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+725,NULL,"човешка хромозома 9","human chromosome 9","Homo sapiens chromosome 9","","A11.284.187.520.300.325.345","","http://www.wikidata.org/entity/Q840604","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+726,NULL,"човешка хромозома 10","human chromosome 10","Homo sapiens chromosome 10","","A11.284.187.520.300.325.350","","http://www.wikidata.org/entity/Q840737","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+727,NULL,"човешка хромозома 11","human chromosome 11","Homo sapiens chromosome 11","","A11.284.187.520.300.325.355","","http://www.wikidata.org/entity/Q847096","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+728,NULL,"човешка хромозома 12","human chromosome 12","Homo sapiens chromosome 12","","A11.284.187.520.300.325.360","","http://www.wikidata.org/entity/Q847102","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+729,NULL,"човешка Х хромозома","human X chromosome","human chromosome X","","A11.284.187.520.300.325.680","","http://www.wikidata.org/entity/Q29867336","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+730,NULL,"човешка хромозома 13","human chromosome 13","Homo sapiens chromosome 13","","A11.284.187.520.300.370.375","","http://www.wikidata.org/entity/Q840734","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+731,NULL,"човешка хромозома 14","human chromosome 14","Homo sapiens chromosome 14","","A11.284.187.520.300.370.380","","http://www.wikidata.org/entity/Q138955","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+732,NULL,"човешка хромозома 15","human chromosome 15","Homo sapiens chromosome 15","","A11.284.187.520.300.370.385","","http://www.wikidata.org/entity/Q765245","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+733,NULL,"човешка хромозома 16","human chromosome 16","Homo sapiens chromosome 16","","A11.284.187.520.300.415.420","","http://www.wikidata.org/entity/Q742870","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+734,NULL,"човешка хромозома 17","human chromosome 17","Homo sapiens chromosome 17","","A11.284.187.520.300.415.425","","http://www.wikidata.org/entity/Q220677","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+735,NULL,"човешка хромозома 18","human chromosome 18","Homo sapiens chromosome 18","","A11.284.187.520.300.415.430","","http://www.wikidata.org/entity/Q780468","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+736,NULL,"човешка хромозома 19","human chromosome 19","Homo sapiens chromosome 19","","A11.284.187.520.300.460.465","","http://www.wikidata.org/entity/Q510786","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+737,NULL,"човешка хромозома 20","human chromosome 20","Homo sapiens chromosome 20","","A11.284.187.520.300.460.470","","http://www.wikidata.org/entity/Q666752","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+738,NULL,"човешка хромозома 21","human chromosome 21","Homo sapiens chromosome 21","","A11.284.187.520.300.505.510","","http://www.wikidata.org/entity/Q753218","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+739,NULL,"човешка хромозома 22","human chromosome 22","Homo sapiens chromosome 22","","A11.284.187.520.300.505.515","","http://www.wikidata.org/entity/Q753805","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+740,NULL,"човешка Y хромозома","human Y chromosome","Human Y chronmosome","","A11.284.187.520.300.505.757","","http://www.wikidata.org/entity/Q2966734","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+741,NULL,"полова хромозома","sex chromosome","","","A11.284.187.865","","http://www.wikidata.org/entity/Q667636","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+742,NULL,"извънклетъчна матрица","extracellular matrix","GO:0031012","","A11.284.295.310","","http://www.wikidata.org/entity/Q193825","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+743,NULL,"гломерулна базална мембрана","glomerular basement membrane","Glomerular basement membrane","","A11.284.295.310.279","C0599297","http://www.wikidata.org/entity/Q1753456","2020-05-25 11:04:29","2020-06-05 07:26:51",NULL
+744,NULL,"microfibril","microfibril","GO:0001527","","A11.284.295.310.560","","http://www.wikidata.org/entity/Q417913","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+745,NULL,"извънклетъчен везикул","extracellular vesicle","GO:1903561","","A11.284.295.588","","http://www.wikidata.org/entity/Q21097485","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+746,NULL,"кинетохорна","kinetochore","Kinetochores","","A11.284.430.106.279.345.190.160.165.500","","http://www.wikidata.org/entity/Q908912","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+747,NULL,"хроматин","chromatin","GO:0000785","","A11.284.430.106.279.345.190.160.180","","http://www.wikidata.org/entity/Q180951","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+748,NULL,"на теломерите","telomere","","","A11.284.430.106.279.345.190.160.845","","http://www.wikidata.org/entity/Q185057","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+749,NULL,"микронуклеус на зародиш","germline micronucleus","","","A11.284.430.106.575","","http://www.wikidata.org/entity/Q59626942","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+750,NULL,"цитоплазмени структури","cytoplasmic structures","cytoplasmic structure","","A11.284.430.214.190","","http://www.wikidata.org/entity/Q67065016","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+751,NULL,"цитоплазмени гранули","cytoplasmic granules","cytoplasmic granule","","A11.284.430.214.190.500","","http://www.wikidata.org/entity/Q66559508","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+752,NULL,"Пероксизоми","peroxisome","GO:0005777","","A11.284.430.214.190.500.585.600","","http://www.wikidata.org/entity/Q138639","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+753,NULL,"цитоскелет","cytoskeleton","GO:0005856","","A11.284.430.214.190.750","","http://www.wikidata.org/entity/Q154626","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+754,NULL,"тяло на шпиндел","spindle pole body","GO:0005816","","A11.284.430.214.190.750.585.580","","http://www.wikidata.org/entity/Q12386518","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+755,NULL,"цитоплазмен везикул","cytoplasmic vesicle","GO:0031410","","A11.284.430.214.190.875.190","","http://www.wikidata.org/entity/Q14840128","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+756,NULL,"Лизозоми","lysosome","GO:0005764","","A11.284.430.214.190.875.190.550","","http://www.wikidata.org/entity/Q83330","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+757,NULL,"транспортен везикул","transport vesicle","GO:0030133","","A11.284.430.214.190.875.190.880","","http://www.wikidata.org/entity/Q14860091","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+758,NULL,"ендозома","endosome","GO:0005768","","A11.284.430.214.190.875.190.880.337","","http://www.wikidata.org/entity/Q824237","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+759,NULL,"Едоплазматичен ретикулум","endoplasmic reticulum","GO:0005783","","A11.284.430.214.190.875.248","","http://www.wikidata.org/entity/Q79927","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+760,NULL,"Митохондрий","mitochondrion","mitochondria","","A11.284.430.214.190.875.564","C0026237","http://www.wikidata.org/entity/Q39572","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+761,NULL,"митохондриална рибозома","mitochondrial ribosome","GO:0005761","","A11.284.430.214.190.875.564.755","","http://www.wikidata.org/entity/Q21234507","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+762,NULL,"Пропластид","plastid","","","A11.284.430.214.190.875.700","","http://www.wikidata.org/entity/Q165963","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+763,NULL,"Рибозом","ribosome","GO:0005840","","A11.284.430.214.190.875.811","","http://www.wikidata.org/entity/Q42244","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+764,NULL,"рибозомна субединица","ribosomal subunit","GO:0044391","","A11.284.430.214.190.875.811.870","","http://www.wikidata.org/entity/Q22328914","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+765,NULL,"Рибосомален протеин L10","Ribosomal protein L10","Ribosomal_L10","","A11.284.430.214.190.875.811.870.350","","http://www.wikidata.org/entity/Q24780227","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+766,NULL,"вътреклетъчна течност","intracellular fluid","ICF","","A11.284.430.429","C0021866","http://www.wikidata.org/entity/Q17232058","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+767,NULL,"бежов адипоцит","beige adipocyte","beige cell","","A11.329.114.125","","http://www.wikidata.org/entity/Q59627665","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+768,NULL,"хондроцитана","chondrocyte","chondrocytes","","A11.329.171","","http://www.wikidata.org/entity/Q775480","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+769,NULL,"фибробласти","fibroblast","fibroblasts","","A11.329.228","","http://www.wikidata.org/entity/Q463418","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+770,NULL,"миофибробластен","myofibroblast","myofibroblasts","","A11.329.228.975","","http://www.wikidata.org/entity/Q1467330","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+771,NULL,"макрофагите","macrophage","Mφ","","A11.329.372","","http://www.wikidata.org/entity/Q184204","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+772,NULL,"епителиоидна клетка","epithelioid cell","epithelioid histiocyte","","A11.329.372.300","","http://www.wikidata.org/entity/Q1347440","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+773,NULL,"histiocyte","histiocyte","","","A11.329.372.385","","http://www.wikidata.org/entity/Q654612","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+774,NULL,"Куфрова клетка","Kupffer cell","Kupffer cells","","A11.329.372.588","","http://www.wikidata.org/entity/Q513486","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+775,11,"алвеоларен макрофаг","alveolar macrophage","\"macrophages",NULL,"A11.329.372.600",NULL,"http://www.wikidata.org/entity/Q448687","2020-05-25 11:04:30","2020-05-25 11:27:18",NULL
+776,NULL,"на остеокластите","osteoclast","sanin","","A11.329.372.700","","http://www.wikidata.org/entity/Q828410","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+777,NULL,"мастоцити","mast cells","mastocyte","","A11.329.427","","http://www.wikidata.org/entity/Q191989","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+778,NULL,"остеобласти","osteoblast","","","A11.329.629","","http://www.wikidata.org/entity/Q917177","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+779,NULL,"мезенхимни стволови клетки","mesenchymal stem cells","multipotent stromal cells","","A11.329.830.500","","http://www.wikidata.org/entity/Q1922379","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+780,NULL,"telocytes","telocytes","telocyte","","A11.329.830.750","","http://www.wikidata.org/entity/Q7697784","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+781,NULL,"трофобласти","trophoblasts","trophoblast","","A11.382.992","","http://www.wikidata.org/entity/Q1889778","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+782,NULL,"кератиноцитите","keratinocyte","keratinocytes","","A11.409.500","","http://www.wikidata.org/entity/Q1473931","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+783,NULL,"епителна клетка","epithelial cell","epithelial cells","","A11.436","C0014597","http://www.wikidata.org/entity/Q15176415","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+784,NULL,"гигантска клетка","giant cell","giant cells","","A11.500","","http://www.wikidata.org/entity/Q2152526","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+785,NULL,"чернодробни звездни клетки","hepatic stellate cells","Ito cell","","A11.561","","http://www.wikidata.org/entity/Q1997459","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+786,NULL,"интерстициални клетки на Cajal","interstitial cells of Cajal","interstitial cell of Cajal","","A11.620.124","","http://www.wikidata.org/entity/Q2596185","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+787,NULL,"оксифилни клетки","oxyphil cells","oxyphil cell","","A11.690","","http://www.wikidata.org/entity/Q7116107","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+788,NULL,"фагоцит","phagocyte","phagocytes","","A11.733","","http://www.wikidata.org/entity/Q107647","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+789,NULL,"прокариотна клетка","prokaryotic cell","Prokaryotic Cells","","A11.760","","http://www.wikidata.org/entity/Q12047128","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+790,NULL,"Спори","spore","","","A11.870","","http://www.wikidata.org/entity/Q177332","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+791,11,"гъбични спори","fungal spores",NULL,NULL,"A11.870.710",NULL,"http://www.wikidata.org/entity/Q68900942","2020-05-25 11:04:30","2020-05-25 11:39:42",NULL
+792,NULL,"протозойска спора","protozoan spore","protozoan spores","","A11.870.740","","http://www.wikidata.org/entity/Q59626870","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+793,NULL,"Стволови клетки","stem cell","undifferentiated biological cells that can differentiate into specialized cells","","A11.872","","http://www.wikidata.org/entity/Q48196","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+794,NULL,"индуцирана плюрипотентна стволова клетка","induced pluripotent stem cell","iPSc","","A11.872.040.500","","http://www.wikidata.org/entity/Q674925","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+795,NULL,"мултипотентност","multipotency","multipotent stem cells","","A11.872.590","","http://www.wikidata.org/entity/Q1760914","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+796,NULL,"миобласт на гладката мускулатура","smooth muscle myoblast","smooth muscle myoblasts","","A11.872.620.510","","http://www.wikidata.org/entity/Q66591231","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+797,NULL,"ракови стволови клетки","cancer stem cell","neoplastic stem cells","","A11.872.650","","http://www.wikidata.org/entity/Q1638475","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+798,NULL,"Невронни стволови клетки","Neural stem cells","neural stem cell","","A11.872.653","","http://www.wikidata.org/entity/Q2944097","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+799,NULL,"плюрипотентни стволови клетки","pluripotent stem cells","pluripotent stem cell","","A11.872.700","","http://www.wikidata.org/entity/Q15952110","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+800,NULL,"човешка ембрионална стволова клетка","human embryonic stem cell","human embryonic stem cells","","A11.872.700.250.750","","http://www.wikidata.org/entity/Q59626782","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+801,NULL,"течности и секрети","fluids and secretions","bodily fluids","","A12","","http://www.wikidata.org/entity/Q71417785","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+802,NULL,"Жлъчен секрет","bile","gall","","A12.200.087","C0005388","http://www.wikidata.org/entity/Q65979","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+803,NULL,"ушна кал","earwax","tapón ceruminal","","A12.200.147","","http://www.wikidata.org/entity/Q76418","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+804,NULL,"мляко","milk","","","A12.200.455","C0026131","http://www.wikidata.org/entity/Q8495","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+805,NULL,"слуз","mucus","","","A12.200.503","","http://www.wikidata.org/entity/Q3649349","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+806,NULL,"слюнка","saliva","","","A12.200.666","C0036087","http://www.wikidata.org/entity/Q155925","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+807,NULL,"късам","tear","tears","","A12.200.882","","http://www.wikidata.org/entity/Q76469","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+808,NULL,"кръв от пъпна връв","cord blood","umbilical cord blood","","A12.207.152.200","","http://www.wikidata.org/entity/Q914952","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+809,NULL,"богата на тромбоцити плазма","platelet-rich plasma","autologous conditioned plasma","","A12.207.152.693.600","","http://www.wikidata.org/entity/Q613879","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+810,NULL,"ендолимфата","endolymph","Scarpa's fluid","endolympha","A12.207.270.517.324","C0014166","http://www.wikidata.org/entity/Q1340752","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+811,NULL,"Пикня","urine","piss","","A12.207.927","","http://www.wikidata.org/entity/Q40924","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+812,NULL,"изпражнения","feces","stool","","A12.459","","http://www.wikidata.org/entity/Q496","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+813,NULL,"структура на животните","animal structure","animal structures","","A13","","http://www.wikidata.org/entity/Q25570959","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+814,NULL,"анални чували","anal sacs","anal sac","","A13.073","","http://www.wikidata.org/entity/Q67388181","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+815,NULL,"sensillum","sensillum","sensilla","","A13.093.500","","http://www.wikidata.org/entity/Q1630183","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+816,NULL,"клоака","Cloaca","","","A13.223","","http://www.wikidata.org/entity/Q5134733","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+817,NULL,"преден крайник","forelimb","foreleg","","A13.395","","http://www.wikidata.org/entity/Q67620241","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+819,NULL,"анална жлеза","anal gland","anal sacs","","A13.734","","http://www.wikidata.org/entity/Q484645","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+821,NULL,"предстомашие","proventriculus","","","A13.853.710","","http://www.wikidata.org/entity/Q522113","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+822,NULL,"опашка","tail","","","A13.895","","http://www.wikidata.org/entity/Q60960","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+823,NULL,"Ултимофарингеално тяло","Ultimopharyngeal body","","","A13.939","","http://www.wikidata.org/entity/Q544937","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+824,NULL,"стоматогнатна система","stomatognathic system","","","A14","","http://www.wikidata.org/entity/Q3774147","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+825,NULL,"небце","palate","","palatum","A14.521.658","C0700374","http://www.wikidata.org/entity/Q172605","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+826,NULL,"зъбна носеща структура","tooth supporting structure","tooth supporting structures","periodontium","A14.549.167.646","","http://www.wikidata.org/entity/Q143652","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+827,NULL,"Зъбен венец","gums","gingiva","gingiva","A14.549.167.646.480","","http://www.wikidata.org/entity/Q104280","2020-05-25 11:04:30","2020-05-25 11:04:30",NULL
+828,NULL,"пародонтално влакно","periodontal fiber","Periodontal ligament","fibra periodontalis","A14.549.167.646.771","","http://www.wikidata.org/entity/Q540092","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+829,NULL,"предкътник","premolar","","dens premolaris","A14.549.167.860.150","","http://www.wikidata.org/entity/Q839483","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+830,NULL,"кучешки зъб","canine tooth","fangs","dens caninus","A14.549.167.860.200","","http://www.wikidata.org/entity/Q19625","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+831,NULL,"резец","incisor","","dens incisivus","A14.549.167.860.425","","http://www.wikidata.org/entity/Q273543","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+832,NULL,"мъдреци","wisdom teeth","wisdom tooth","dens molaris tertius","A14.549.167.860.525.500","","http://www.wikidata.org/entity/Q202517","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+833,NULL,"неразрушен зъб","unerupted tooth","unerupted teeth","","A14.549.167.860.715","","http://www.wikidata.org/entity/Q67996045","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+834,NULL,"зъбен емайл","tooth enamel","dental enamel","enamelum","A14.549.167.900.255","","http://www.wikidata.org/entity/Q143942","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+835,NULL,"зъбна пулпа","dental pulp","pulp","pulpa dentis","A14.549.167.900.260","","http://www.wikidata.org/entity/Q48286","2020-05-25 11:04:30","2020-06-05 07:26:51",NULL
+836,NULL,"корона на зъб","crown of tooth","tooth crown","corona dentis","A14.549.167.900.710","","http://www.wikidata.org/entity/Q940147","2020-05-25 11:04:31","2020-05-25 11:04:31",NULL
+837,NULL,"зъбна папила","dental papilla","","papilla dentis","A14.549.167.900.720.250","","http://www.wikidata.org/entity/Q3362895","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+838,NULL,"меко небце","soft palate","muscular palate","velum palatinum","A14.549.617.780","C0030219","http://www.wikidata.org/entity/Q1056395","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+839,NULL,"мъжец","uvula","uvula of palate","uvula palatina","A14.549.617.780.729","C0042173","http://www.wikidata.org/entity/Q273538","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+840,NULL,"френулум на езика","frenulum of tongue","tongue frenulum","frenulum linguae","A14.549.885.431","","http://www.wikidata.org/entity/Q502133","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+841,NULL,"хемична и имунна система","hemic and immune systems","","","A15","","http://www.wikidata.org/entity/Q70202933","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+842,NULL,"имунна система","immune system","","","A15.382","","http://www.wikidata.org/entity/Q1059","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+843,NULL,"костен мозък","bone marrow","","medulla ossium","A15.382.216","C0005953","http://www.wikidata.org/entity/Q546523","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+844,NULL,"лимфен съд","lymphatic vessel","lymphatic vessels","vas lymphaticum","A15.382.520.301","","http://www.wikidata.org/entity/Q11238641","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+845,NULL,"гръден канал","thoracic duct","","ductus thoracicus","A15.382.520.301.750","","http://www.wikidata.org/entity/Q1263629","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+846,NULL,"ембрионална структура","embryonic structure","embryologic structure","","A16","C0013948","http://www.wikidata.org/entity/Q30062554","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+847,NULL,"Фарингеална арка","Pharyngeal arch","","","A16.142","","http://www.wikidata.org/entity/Q1432727","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+848,NULL,"бластоцист","blastocyst","","","A16.254.085","","http://www.wikidata.org/entity/Q227717","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+849,NULL,"Хориоаллантоидна мембрана","Chorioallantoic membrane","","","A16.254.300.400","","http://www.wikidata.org/entity/Q3854334","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+850,NULL,"Примитивна жилка","Primitive streak","","","A16.254.412","","http://www.wikidata.org/entity/Q247512","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+851,NULL,"екзодерма","ectoderm","","","A16.254.425.273","C0013574","http://www.wikidata.org/entity/Q272474","2020-05-25 11:04:31","2020-05-25 11:04:31",NULL
+852,NULL,"ендодерма","endoderm","","","A16.254.425.407","C0014144","http://www.wikidata.org/entity/Q331858","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+853,NULL,"мезодерма","mesoderm","","","A16.254.425.660","C0025485","http://www.wikidata.org/entity/Q323438","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+854,NULL,"сегмент","somite","","","A16.254.425.660.750","","http://www.wikidata.org/entity/Q1427600","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+855,NULL,"mesonephros","mesonephros","","","A16.254.500","","http://www.wikidata.org/entity/Q1468875","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+856,NULL,"notochord","notochord","","","A16.254.610","","http://www.wikidata.org/entity/Q243469","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+857,NULL,"Urachus","Urachus","","","A16.254.835","","http://www.wikidata.org/entity/Q1858490","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+858,NULL,"ембрион","fetus","","","A16.378","","http://www.wikidata.org/entity/Q17013437","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+859,NULL,"пъпна връв","umbilical cord","navel string","","A16.378.693","","http://www.wikidata.org/entity/Q172563","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+860,NULL,"гестационен сак","gestational sac","","","A16.535","","http://www.wikidata.org/entity/Q5553682","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+861,NULL,"пъпка на крайниците","limb bud","limb buds","","A16.567","","http://www.wikidata.org/entity/Q6548937","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+862,NULL,"Парамезонефричен канал","Paramesonephric duct","","","A16.623","","http://www.wikidata.org/entity/Q491057","2020-05-25 11:04:31","2020-06-05 07:26:51",NULL
+863,NULL,"лобова мембрана","vitelline membrane","","","A16.631.886","","http://www.wikidata.org/entity/Q7937031","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+864,NULL,"плацента","placenta","Before birth","","A16.710","","http://www.wikidata.org/entity/Q1212935","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+865,NULL,"децидуа","Decidua","","","A16.759.289","","http://www.wikidata.org/entity/Q2531387","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+866,NULL,"лозен канал","vitelline duct","omphalomesenteric duct","","A16.920","","http://www.wikidata.org/entity/Q2624223","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+867,NULL,"Кожа и кожни образувания","integumentary system","","integumentum commune","A17","","http://www.wikidata.org/entity/Q483213","2020-05-25 11:04:31","2020-05-25 11:04:31",NULL
+868,NULL,"коса","hair","","pili","A17.360","","http://www.wikidata.org/entity/Q28472","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+869,NULL,"човешка кожа","human skin","","cutis","A17.815","","http://www.wikidata.org/entity/Q5259911","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+870,NULL,"кожа","skin","","cutis","A17.815","","http://www.wikidata.org/entity/Q1074","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+871,NULL,"дерма","dermis","corium","dermis","A17.815.180","","http://www.wikidata.org/entity/Q505531","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+872,NULL,"плодове","fruit","fruits","","A18.024.500","","http://www.wikidata.org/entity/Q1364","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+873,NULL,"устицата","stomata","Stoma","","A18.024.750.650","","http://www.wikidata.org/entity/Q216635","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+874,NULL,"Листо","leaf","tree leaf","","A18.024.812","","http://www.wikidata.org/entity/Q33971","2020-05-25 11:04:31","2020-05-25 11:04:31",NULL
+875,NULL,"корен","root","","","A18.400","","http://www.wikidata.org/entity/Q41500","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+877,NULL,"съдов сноп","vascular bundle","plant vascular bundle","","A18.450","","http://www.wikidata.org/entity/Q987774","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+878,NULL,"дърво","wood","","","A18.450.500.500","","http://www.wikidata.org/entity/Q287","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+879,NULL,"спорангий","sporangium","sporangia","","A18.560","","http://www.wikidata.org/entity/Q4832012","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+880,NULL,"гъбична част","fungal part","fungal structures","","A19","","http://www.wikidata.org/entity/Q56883667","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+881,NULL,"вирусна оклузия ","viral occlusion body","","","A21.125","","http://www.wikidata.org/entity/Q22328949","2020-05-25 11:04:31","2020-05-25 11:04:31",NULL
+882,NULL,"вириона","virion",NULL,"","A21.249","","http://www.wikidata.org/entity/Q1757347","2020-05-25 11:04:31","2020-06-05 07:26:52",NULL
+883,NULL,"температура",NULL,NULL,NULL,NULL,NULL,NULL,"2020-05-31 16:18:51","2020-05-31 16:18:51",NULL
+884,NULL,"общо състояние",NULL,NULL,NULL,NULL,NULL,NULL,"2020-06-02 07:01:19","2020-06-02 07:01:19",NULL
+885,NULL,"специален статус",NULL,NULL,NULL,NULL,NULL,NULL,"2020-06-04 16:36:14","2020-06-04 16:36:14",NULL
+886,NULL,"тегло",NULL,NULL,NULL,NULL,NULL,NULL,"2020-06-04 20:41:30","2020-06-04 20:41:30",NULL
+887,NULL,"ръст",NULL,NULL,NULL,NULL,NULL,NULL,"2020-06-04 21:10:19","2020-06-04 21:10:19",NULL
